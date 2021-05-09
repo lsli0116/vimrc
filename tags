@@ -1,0 +1,1179 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/2ebf5b1/
+.phony	plugged/YouCompleteMe/test/Makefile	/^.phony: test clean$/;"	t	language:Make
+ACTIVE	plugged/YouCompleteMe/python/ycm/signature_help.py	/^  ACTIVE = 'ACTIVE'$/;"	v	language:Python	class:SignatureHelpState
+Abort	plugged/YouCompleteMe/test/lib/run_test.vim	/^func! Abort( timer_id )$/;"	f	language:Vim
+About	plugged/vim-tags/README.md	/^About$/;"	s	language:Markdown
+AddDiagnosticMatch	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def AddDiagnosticMatch( match ):$/;"	f	language:Python
+AddDiagnosticSyntaxMatch_NonPositivePosition_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def AddDiagnosticSyntaxMatch_NonPositivePosition_test():$/;"	f	language:Python
+AddDiagnosticSyntaxMatch_UnicodeAtEndOfLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def AddDiagnosticSyntaxMatch_UnicodeAtEndOfLine_test():$/;"	f	language:Python
+AddDiagnosticSyntaxMatch_WarningAtEndOfLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def AddDiagnosticSyntaxMatch_WarningAtEndOfLine_test():$/;"	f	language:Python
+AddToGroupMap	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^  def AddToGroupMap( name, parent ):$/;"	f	language:Python	function:_CreateInitialGroupMap	file:
+AdjustCandidateInsertionText	plugged/YouCompleteMe/python/ycm/base.py	/^def AdjustCandidateInsertionText( candidates ):$/;"	f	language:Python
+AdjustCandidateInsertionText_Basic_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_Basic_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_DontTouchAbbr_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_DontTouchAbbr_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_MoreThanWordMatchingAfterCursor_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_MoreThanWordMatchingAfterCursor_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_MultipleStrings_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_MultipleStrings_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_NoAbbr_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_NoAbbr_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_NotSuffix_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_NotSuffix_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_NothingAfterCursor_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_NothingAfterCursor_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_ParenInTextAfterCursor_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_ParenInTextAfterCursor_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_PlusInTextAfterCursor_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_PlusInTextAfterCursor_test():$/;"	f	language:Python
+AdjustCandidateInsertionText_WhitespaceInTextAfterCursor_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def AdjustCandidateInsertionText_WhitespaceInTextAfterCursor_test():$/;"	f	language:Python
+AfterTheTest	plugged/YouCompleteMe/test/lib/run_test.vim	/^func AfterTheTest()$/;"	f	language:Vim
+AllFields_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def AllFields_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+AssertBuffersAreEqualAsBytes	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def AssertBuffersAreEqualAsBytes( result_buffer, expected_buffer ):$/;"	f	language:Python
+Authors and License	plugged/vim-tags/README.md	/^Authors and License$/;"	s	language:Markdown
+AutoCloseOnCurrentBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def AutoCloseOnCurrentBuffer( name ):$/;"	f	language:Python
+Azure Pipelines Scripts	plugged/YouCompleteMe/azure/README.md	/^Azure Pipelines Scripts$/;"	c	language:Markdown
+BUFFER_COMMAND_MAP	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^BUFFER_COMMAND_MAP = { 'same-buffer'      : 'edit',$/;"	v	language:Python
+BUFNR_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^BUFNR_REGEX = re.compile( '^bufnr\\\\(\\'(?P<buffer_filename>.+)\\', ([01])\\\\)$' )$/;"	v	language:Python
+BUFWINNR_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^BUFWINNR_REGEX = re.compile( '^bufwinnr\\\\((?P<buffer_number>[0-9]+)\\\\)$' )$/;"	v	language:Python
+BWIPEOUT_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^BWIPEOUT_REGEX = re.compile($/;"	v	language:Python
+BaseRequest	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^class BaseRequest( object ):$/;"	c	language:Python
+BasicResponse_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def BasicResponse_test( self ):$/;"	m	language:Python	class:Response_Detection_test
+Buffer	plugged/YouCompleteMe/python/ycm/buffer.py	/^class Buffer( object ):$/;"	c	language:Python
+BufferDict	plugged/YouCompleteMe/python/ycm/buffer.py	/^class BufferDict( dict ):$/;"	c	language:Python
+BufferIsUsable	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def BufferIsUsable( buffer_object ):$/;"	f	language:Python
+BufferIsVisible	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def BufferIsVisible( buffer_number ):$/;"	f	language:Python
+BufferIsVisibleForFilename	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def BufferIsVisibleForFilename( filename ):$/;"	f	language:Python
+BufferIsVisibleForFilename_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def BufferIsVisibleForFilename_test():$/;"	f	language:Python
+BufferModified	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def BufferModified( buffer_object ):$/;"	f	language:Python
+BuildCompletion	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def BuildCompletion( insertion_text = 'Test',$/;"	f	language:Python
+BuildCompletionFixIt	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def BuildCompletionFixIt( fixits,$/;"	f	language:Python
+BuildCompletionNamespace	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def BuildCompletionNamespace( namespace = None,$/;"	f	language:Python
+BuildExtraConfData	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^    def BuildExtraConfData( extra_conf_vim_data ):$/;"	f	language:Python	member:YouCompleteMe._AddExtraConfDataIfNeeded	file:
+BuildOmnicompletionRequest	plugged/YouCompleteMe/python/ycm/tests/client/omni_completion_request_tests.py	/^def BuildOmnicompletionRequest( results, start_column = 1 ):$/;"	f	language:Python
+BuildRange	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def BuildRange( start_line, end_line ):$/;"	f	language:Python
+BuildRequestData	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def BuildRequestData( buffer_number = None ):$/;"	f	language:Python
+BuildRequestData_AddWorkingDirWithFileName_test	plugged/YouCompleteMe/python/ycm/tests/client/base_request_test.py	/^def BuildRequestData_AddWorkingDirWithFileName_test( *args ):$/;"	f	language:Python
+BuildRequestData_AddWorkingDir_test	plugged/YouCompleteMe/python/ycm/tests/client/base_request_test.py	/^def BuildRequestData_AddWorkingDir_test( *args ):$/;"	f	language:Python
+BuildYcmdLibs	plugged/YouCompleteMe/run_tests.py	/^def BuildYcmdLibs( args ):$/;"	f	language:Python
+Building	plugged/YouCompleteMe/test/README.md	/^## Building$/;"	s	language:Markdown
+C-family Semantic Completion	plugged/YouCompleteMe/README.md	/^### C-family Semantic Completion$/;"	S	language:Markdown
+C-family languages (C, C++, Objective C, Objective C++, CUDA)	plugged/YouCompleteMe/README.md	/^### C-family languages (C, C++, Objective C, Objective C++, CUDA)$/;"	S	language:Markdown
+CLIENT_LOGFILE_FORMAT	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^CLIENT_LOGFILE_FORMAT = 'ycm_'$/;"	v	language:Python
+CORE_MISSING_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^CORE_MISSING_MESSAGE = ($/;"	v	language:Python
+CORE_OUTDATED_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^CORE_OUTDATED_MESSAGE = ($/;"	v	language:Python
+CORE_PYTHON2_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^CORE_PYTHON2_MESSAGE = ($/;"	v	language:Python
+CORE_PYTHON3_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^CORE_PYTHON3_MESSAGE = ($/;"	v	language:Python
+CORE_UNEXPECTED_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^CORE_UNEXPECTED_MESSAGE = ($/;"	v	language:Python
+CaptureVimCommand	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CaptureVimCommand( command ):$/;"	f	language:Python
+Check	plugged/YouCompleteMe/test/completion.test.vim	/^  function! Check( id ) closure$/;"	f	language:Vim
+Check	plugged/YouCompleteMe/test/signature_help.test.vim	/^  function! Check( id ) closure$/;"	f	language:Vim
+Check2	plugged/YouCompleteMe/test/signature_help.test.vim	/^  function Check2( id ) closure$/;"	f	language:Vim
+CheckCompletionVisibleAndSigHelpHidden	plugged/YouCompleteMe/test/signature_help.test.vim	/^  function! CheckCompletionVisibleAndSigHelpHidden( id ) closure$/;"	f	language:Vim
+CheckIfServerIsReady	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def CheckIfServerIsReady( self ):$/;"	m	language:Python	class:YouCompleteMe
+CheckSigHelpAndTriggerCompletion	plugged/YouCompleteMe/test/signature_help.test.vim	/^  function! CheckSigHelpAndTriggerCompletion( id ) closure$/;"	f	language:Vim
+ClampToOne	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def ClampToOne( value ):$/;"	f	language:Python	function:_NormalizeDiagnostic	file:
+ClearSignatureHelp	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ClearSignatureHelp( self ):$/;"	m	language:Python	class:YouCompleteMe
+Client-Server Architecture	plugged/YouCompleteMe/README.md	/^### Client-Server Architecture$/;"	S	language:Markdown
+CloseBuffersForFilename	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CloseBuffersForFilename( filename ):$/;"	f	language:Python
+CloseBuffersForFilename_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def CloseBuffersForFilename_test():$/;"	f	language:Python
+ClosePreviewWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ClosePreviewWindow():$/;"	f	language:Python
+CommaSeparatedFiletypes_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def CommaSeparatedFiletypes_test():$/;"	f	language:Python
+CommandRequest	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^class CommandRequest( BaseRequest ):$/;"	c	language:Python
+ComparePaths	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ComparePaths( path1, path2 ):$/;"	f	language:Python
+CompileLevel	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^def CompileLevel( level ):$/;"	f	language:Python
+CompileRegex	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^def CompileRegex( raw_regex ):$/;"	f	language:Python
+CompleteItemIs	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def CompleteItemIs( word, abbr = None, menu = None,$/;"	f	language:Python
+CompleterAvailableRequest	plugged/YouCompleteMe/python/ycm/client/completer_available_request.py	/^class CompleterAvailableRequest( BaseRequest ):$/;"	c	language:Python
+Completion String Ranking	plugged/YouCompleteMe/README.md	/^### Completion String Ranking$/;"	S	language:Markdown
+CompletionRequest	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^class CompletionRequest( BaseRequest ):$/;"	c	language:Python
+CompletionRequestReady	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def CompletionRequestReady( self ):$/;"	m	language:Python	class:YouCompleteMe
+ComputeCandidates	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def ComputeCandidates( self, request_data ):$/;"	m	language:Python	class:OmniCompleter
+ComputeCandidatesInner	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def ComputeCandidatesInner( self, request_data ):$/;"	m	language:Python	class:OmniCompleter
+ComputeFittingHeightForCurrentWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ComputeFittingHeightForCurrentWindow():$/;"	f	language:Python
+Configuration	plugged/vim-tags/README.md	/^Configuration$/;"	s	language:Markdown
+Confirm	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def Confirm( message ):$/;"	f	language:Python
+Contents	plugged/YouCompleteMe/README.md	/^Contents$/;"	s	language:Markdown
+ContentsOfTestFile	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ContentsOfTestFile( test_file ):$/;"	f	language:Python
+Contributor Code of Conduct	plugged/YouCompleteMe/CODE_OF_CONDUCT.md	/^# Contributor Code of Conduct$/;"	c	language:Markdown
+ConvertCompletionResponseToVimDatas_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^class ConvertCompletionResponseToVimDatas_test( object ):$/;"	c	language:Python
+ConvertDiagnosticToQfFormat	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^  def ConvertDiagnosticToQfFormat( diagnostic ):$/;"	f	language:Python	function:ConvertDiagnosticsToQfList	file:
+ConvertDiagnosticsToQfList	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ConvertDiagnosticsToQfList( diagnostics ):$/;"	f	language:Python
+Coverage	plugged/YouCompleteMe/test/README.md	/^# Coverage$/;"	c	language:Markdown
+CreateFromOptions	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def CreateFromOptions( user_options ):$/;"	m	language:Python	class:DiagnosticFilter
+CreateSign	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CreateSign( line, name, buffer_number ):$/;"	f	language:Python
+CurrentBuffer	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def CurrentBuffer( self ):$/;"	m	language:Python	class:YouCompleteMe
+CurrentColumn	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CurrentColumn():$/;"	f	language:Python
+CurrentFiletypes	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CurrentFiletypes():$/;"	f	language:Python
+CurrentFiletypesEnabled	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CurrentFiletypesEnabled( disabled_filetypes ):$/;"	f	language:Python
+CurrentIdentifierFinished	plugged/YouCompleteMe/python/ycm/base.py	/^def CurrentIdentifierFinished():$/;"	f	language:Python
+CurrentIdentifierFinished_Basic_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_Basic_test():$/;"	f	language:Python
+CurrentIdentifierFinished_Html_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_Html_test():$/;"	f	language:Python
+CurrentIdentifierFinished_InMiddleOfLine_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_InMiddleOfLine_test():$/;"	f	language:Python
+CurrentIdentifierFinished_InvalidColumn_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_InvalidColumn_test():$/;"	f	language:Python
+CurrentIdentifierFinished_NothingBeforeColumn_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_NothingBeforeColumn_test():$/;"	f	language:Python
+CurrentIdentifierFinished_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_Unicode_test():$/;"	f	language:Python
+CurrentIdentifierFinished_WhitespaceOnly_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def CurrentIdentifierFinished_WhitespaceOnly_test():$/;"	f	language:Python
+CurrentLineAndColumn	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CurrentLineAndColumn():$/;"	f	language:Python
+CurrentLineContents	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CurrentLineContents():$/;"	f	language:Python
+CurrentLineContentsAndCodepointColumn	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def CurrentLineContentsAndCodepointColumn():$/;"	f	language:Python
+CurrentLineContents_EncodedUnicode_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def CurrentLineContents_EncodedUnicode_test( *args ):$/;"	f	language:Python
+CurrentWorkingDirectory	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def CurrentWorkingDirectory( path ):$/;"	f	language:Python
+C♯	plugged/YouCompleteMe/README.md	/^### C♯$/;"	S	language:Markdown
+DEFAULT_CLIENT_OPTIONS	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^DEFAULT_CLIENT_OPTIONS = {$/;"	v	language:Python
+DIAGNOSTIC_UI_FILETYPES	plugged/YouCompleteMe/python/ycm/buffer.py	/^DIAGNOSTIC_UI_FILETYPES = { 'cpp', 'cs', 'c', 'objc', 'objcpp', 'cuda',$/;"	v	language:Python
+DIR_OF_CURRENT_SCRIPT	plugged/YouCompleteMe/python/ycm/paths.py	/^DIR_OF_CURRENT_SCRIPT = os.path.dirname( os.path.abspath( __file__ ) )$/;"	v	language:Python
+DIR_OF_THIRD_PARTY	plugged/YouCompleteMe/run_tests.py	/^DIR_OF_THIRD_PARTY = p.join( DIR_OF_THIS_SCRIPT, 'third_party' )$/;"	v	language:Python
+DIR_OF_THIS_SCRIPT	plugged/YouCompleteMe/run_tests.py	/^DIR_OF_THIS_SCRIPT = p.dirname( p.abspath( __file__ ) )$/;"	v	language:Python
+DIR_OF_YCMD	plugged/YouCompleteMe/python/ycm/paths.py	/^DIR_OF_YCMD = os.path.join( DIR_OF_CURRENT_SCRIPT, '..', '..', 'third_party',$/;"	v	language:Python
+DebugInfo	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def DebugInfo( self ):$/;"	m	language:Python	class:YouCompleteMe
+DebugInfoRequest	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^class DebugInfoRequest( BaseRequest ):$/;"	c	language:Python
+Decorator	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^  def Decorator( test ):$/;"	f	language:Python	function:YouCompleteMeInstance	file:
+DetailedInfoTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def DetailedInfoTest( command, info ):$/;"	f	language:Python	member:Response_Detection_test.Detailed_Info_test	file:
+Detailed_Info_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def Detailed_Info_test( self ):$/;"	m	language:Python	class:Response_Detection_test
+Diagnostic display - Eclim	plugged/YouCompleteMe/README.md	/^#### Diagnostic display - Eclim$/;"	t	language:Markdown
+Diagnostic display - Syntastic	plugged/YouCompleteMe/README.md	/^#### Diagnostic display - Syntastic$/;"	t	language:Markdown
+DiagnosticFilter	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^class DiagnosticFilter( object ):$/;"	c	language:Python
+DiagnosticInterface	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^class DiagnosticInterface( object ):$/;"	c	language:Python
+DiagnosticMatch	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^class DiagnosticMatch( namedtuple( 'DiagnosticMatch',$/;"	c	language:Python
+DiagnosticResponse	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^  def DiagnosticResponse( *args ):$/;"	f	language:Python	function:_Check_FileReadyToParse_Diagnostic_Error	file:
+DiagnosticResponse	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^  def DiagnosticResponse( *args ):$/;"	f	language:Python	function:_Check_FileReadyToParse_Diagnostic_Warning	file:
+DiagnosticSign	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^class DiagnosticSign( namedtuple( 'DiagnosticSign',$/;"	c	language:Python
+DisplayServerException	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def DisplayServerException( exception, truncate_message = False ):$/;"	f	language:Python
+Docker	plugged/YouCompleteMe/test/README.md	/^# Docker$/;"	c	language:Markdown
+Done	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def Done( self ):$/;"	m	language:Python	class:BaseRequest
+Done	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def Done( self ):$/;"	m	language:Python	class:CompletionRequest
+Done	plugged/YouCompleteMe/python/ycm/client/event_notification.py	/^  def Done( self ):$/;"	m	language:Python	class:EventNotification
+Done	plugged/YouCompleteMe/python/ycm/client/omni_completion_request.py	/^  def Done( self ):$/;"	m	language:Python	class:OmniCompletionRequest
+Done	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Done( self ):$/;"	m	language:Python	class:SignatureHelpAvailableRequest
+Done	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Done( self ):$/;"	m	language:Python	class:SignatureHelpRequest
+Done_AlwaysTrue_test	plugged/YouCompleteMe/python/ycm/tests/client/omni_completion_request_tests.py	/^def Done_AlwaysTrue_test():$/;"	f	language:Python
+EXISTS_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^EXISTS_REGEX = re.compile( '^exists\\\\( \\'(?P<option>[\\\\w:]+)\\' \\\\)$' )$/;"	v	language:Python
+EXIT_CODE_UNEXPECTED_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^EXIT_CODE_UNEXPECTED_MESSAGE = ($/;"	v	language:Python
+Early Warning: Dropping support for Python 2 in 2020	plugged/YouCompleteMe/README.md	/^Early Warning: Dropping support for Python 2 in 2020$/;"	s	language:Markdown
+EarlyExit	plugged/YouCompleteMe/test/lib/run_test.vim	/^func EarlyExit(test)$/;"	f	language:Vim
+Eclipse Projects	plugged/YouCompleteMe/README.md	/^#### Eclipse Projects$/;"	t	language:Markdown
+EmptyFixItTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def EmptyFixItTest( command ):$/;"	f	language:Python	member:Response_Detection_test.FixIt_Response_Empty_test	file:
+EmptyInsertionText_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def EmptyInsertionText_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+EndsWithPython_Bad	plugged/YouCompleteMe/python/ycm/tests/paths_test.py	/^def EndsWithPython_Bad( path ):$/;"	f	language:Python
+EndsWithPython_BadPaths_test	plugged/YouCompleteMe/python/ycm/tests/paths_test.py	/^def EndsWithPython_BadPaths_test():$/;"	f	language:Python
+EndsWithPython_Good	plugged/YouCompleteMe/python/ycm/tests/paths_test.py	/^def EndsWithPython_Good( path ):$/;"	f	language:Python
+EndsWithPython_Python2Paths_test	plugged/YouCompleteMe/python/ycm/tests/paths_test.py	/^def EndsWithPython_Python2Paths_test():$/;"	f	language:Python
+EndsWithPython_Python3Paths_test	plugged/YouCompleteMe/python/ycm/tests/paths_test.py	/^def EndsWithPython_Python3Paths_test():$/;"	f	language:Python
+ErrorResponse	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^  def ErrorResponse( *args ):$/;"	f	language:Python	function:EventNotification_FileReadyToParse_NonDiagnostic_Error_test	file:
+Errors during compilation	plugged/YouCompleteMe/README.md	/^#### Errors during compilation$/;"	t	language:Markdown
+EscapeFilepathForVimCommand	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def EscapeFilepathForVimCommand( filepath ):$/;"	f	language:Python
+EscapeForVim	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def EscapeForVim( text ):$/;"	f	language:Python
+EventNotification	plugged/YouCompleteMe/python/ycm/client/event_notification.py	/^class EventNotification( BaseRequest ):$/;"	c	language:Python
+EventNotification_BufferUnload_BuildRequestForDeletedAndUnsavedBuffers_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_BufferUnload_BuildRequestForDeletedAndUnsavedBuffers_test($/;"	f	language:Python
+EventNotification_BufferVisit_BuildRequestForCurrentAndUnsavedBuffers_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_BufferVisit_BuildRequestForCurrentAndUnsavedBuffers_test($/;"	f	language:Python
+EventNotification_FileReadyToParse_Diagnostic_Error_Native_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_Diagnostic_Error_Native_test( ycm ):$/;"	f	language:Python
+EventNotification_FileReadyToParse_NonDiagnostic_ConfirmExtraConf_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_NonDiagnostic_ConfirmExtraConf_test($/;"	f	language:Python
+EventNotification_FileReadyToParse_NonDiagnostic_Error_NonNative_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_NonDiagnostic_Error_NonNative_test($/;"	f	language:Python
+EventNotification_FileReadyToParse_NonDiagnostic_Error_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_NonDiagnostic_Error_test($/;"	f	language:Python
+EventNotification_FileReadyToParse_SyntaxKeywords_ClearCacheIfRestart_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_SyntaxKeywords_ClearCacheIfRestart_test($/;"	f	language:Python
+EventNotification_FileReadyToParse_SyntaxKeywords_SeedWithCache_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_SyntaxKeywords_SeedWithCache_test($/;"	f	language:Python
+EventNotification_FileReadyToParse_TagFiles_UnicodeWorkingDirectory_test	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def EventNotification_FileReadyToParse_TagFiles_UnicodeWorkingDirectory_test($/;"	f	language:Python
+ExpectedFailure	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def ExpectedFailure( reason, *exception_matchers ):$/;"	f	language:Python
+ExtendedMock	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class ExtendedMock( MagicMock ):$/;"	c	language:Python
+ExtraInfoNoDocStringWithDetailedInfo_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def ExtraInfoNoDocStringWithDetailedInfo_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+ExtraInfoNoDocString_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def ExtraInfoNoDocString_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+ExtractKeywordsFromGroup_Basic_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_Basic_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_Commas_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_Commas_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_ContainedSyntaxArgAllowed_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_ContainedSyntaxArgAllowed_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_KeywordAssignAndMiddle_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_KeywordAssignAndMiddle_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_KeywordAssign_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_KeywordAssign_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_KeywordMiddle_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_KeywordMiddle_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_KeywordStarts_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_KeywordStarts_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_KeywordWithoutNextgroup_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_KeywordWithoutNextgroup_test():$/;"	f	language:Python
+ExtractKeywordsFromGroup_WithLinksTo_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def ExtractKeywordsFromGroup_WithLinksTo_test():$/;"	f	language:Python
+FILETYPE	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^FILETYPE = 'ycmtest'$/;"	v	language:Python
+FILTER_COMPILERS	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^FILTER_COMPILERS = { 'regex' : CompileRegex,$/;"	v	language:Python
+FIXIT_OPENING_BUFFERS_MESSAGE_FORMAT	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^FIXIT_OPENING_BUFFERS_MESSAGE_FORMAT = ($/;"	v	language:Python
+FNAMEESCAPE_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^FNAMEESCAPE_REGEX = re.compile( '^fnameescape\\\\(\\'(?P<filepath>.+)\\'\\\\)$' )$/;"	v	language:Python
+FakeFuture	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^class FakeFuture( object ):$/;"	c	language:Python
+FakeResponse	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^class FakeResponse( object ):$/;"	c	language:Python
+FileParseRequestReady	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def FileParseRequestReady( self, block = False ):$/;"	m	language:Python	class:Buffer
+FileParseRequestReady	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def FileParseRequestReady( self ):$/;"	m	language:Python	class:YouCompleteMe
+FiletypeCompleterExistsForFiletype	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def FiletypeCompleterExistsForFiletype( self, filetype ):$/;"	m	language:Python	class:YouCompleteMe
+FiletypesForBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def FiletypesForBuffer( buffer_object ):$/;"	f	language:Python
+Filetypes_IntegerFiletype_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def Filetypes_IntegerFiletype_test():$/;"	f	language:Python
+FilterAndSortCandidatesInner	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def FilterAndSortCandidatesInner( self, candidates, sort_property, query ):$/;"	m	language:Python	class:OmniCompleter
+FilterLevel	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def FilterLevel( diagnostic ):$/;"	f	language:Python	function:CompileLevel	file:
+FilterRegex	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def FilterRegex( diagnostic ):$/;"	f	language:Python	function:CompileRegex	file:
+FilterToCompletedCompletions_ExactMatchIsReturned_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def FilterToCompletedCompletions_ExactMatchIsReturned_test():$/;"	f	language:Python
+FilterToCompletedCompletions_MatchIsReturned_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def FilterToCompletedCompletions_MatchIsReturned_test():$/;"	f	language:Python
+FilterToCompletedCompletions_NonMatchIsntReturned_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def FilterToCompletedCompletions_NonMatchIsntReturned_test():$/;"	f	language:Python
+FilterToCompletedCompletions_ShortTextDoesntRaise_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def FilterToCompletedCompletions_ShortTextDoesntRaise_test():$/;"	f	language:Python
+FilterToCompletedCompletions_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def FilterToCompletedCompletions_Unicode_test():$/;"	f	language:Python
+FinishTesting	plugged/YouCompleteMe/test/lib/run_test.vim	/^func FinishTesting()$/;"	f	language:Vim
+FixItTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def FixItTest( command, response, chunks, selection, silent ):$/;"	f	language:Python	member:Response_Detection_test.FixIt_Response_test	file:
+FixIt_Response_Empty_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def FixIt_Response_Empty_test( self ):$/;"	m	language:Python	class:Response_Detection_test
+FixIt_Response_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def FixIt_Response_test( self ):$/;"	m	language:Python	class:Response_Detection_test
+FlagsForFile	plugged/YouCompleteMe/python/ycm/tests/testdata/.ycm_extra_conf.py	/^def FlagsForFile( filename, **kwargs ):$/;"	f	language:Python
+ForceCompileAndDiagnostics	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ForceCompileAndDiagnostics( self ):$/;"	m	language:Python	class:YouCompleteMe
+FormatDebugInfoResponse	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^def FormatDebugInfoResponse( response ):$/;"	f	language:Python
+FormatDebugInfoResponse_Completer_ServerNotRunningWithNoLogfiles_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_Completer_ServerNotRunningWithNoLogfiles_test():$/;"	f	language:Python
+FormatDebugInfoResponse_Completer_ServerRunningWithHost_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_Completer_ServerRunningWithHost_test():$/;"	f	language:Python
+FormatDebugInfoResponse_Completer_ServerRunningWithoutHost_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_Completer_ServerRunningWithoutHost_test():$/;"	f	language:Python
+FormatDebugInfoResponse_ExtraConfFoundAndLoaded_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_ExtraConfFoundAndLoaded_test():$/;"	f	language:Python
+FormatDebugInfoResponse_ExtraConfFoundButNotLoaded_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_ExtraConfFoundButNotLoaded_test():$/;"	f	language:Python
+FormatDebugInfoResponse_NoExtraConf_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_NoExtraConf_test():$/;"	f	language:Python
+FormatDebugInfoResponse_NoResponse_test	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^def FormatDebugInfoResponse_NoResponse_test():$/;"	f	language:Python
+FreeBSD/OpenBSD	plugged/YouCompleteMe/README.md	/^### FreeBSD\/OpenBSD$/;"	S	language:Markdown
+FreeFileFromOtherProcesses	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^    def FreeFileFromOtherProcesses( file_object ):$/;"	f	language:Python	member:YouCompleteMe._SetUpLogging	file:
+Full Installation Guide	plugged/YouCompleteMe/README.md	/^### Full Installation Guide$/;"	S	language:Markdown
+GENERIC_RESPONSE	plugged/YouCompleteMe/python/ycm/tests/client/debug_info_request_test.py	/^GENERIC_RESPONSE = {$/;"	v	language:Python
+GETBUFVAR_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^GETBUFVAR_REGEX = re.compile($/;"	v	language:Python
+General (all languages)	plugged/YouCompleteMe/README.md	/^### General (all languages)$/;"	S	language:Markdown
+General Semantic Completion	plugged/YouCompleteMe/README.md	/^### General Semantic Completion$/;"	S	language:Markdown
+General Usage	plugged/YouCompleteMe/README.md	/^### General Usage$/;"	S	language:Markdown
+GetBoolValue	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetBoolValue( variable ):$/;"	f	language:Python
+GetBufferChangedTick	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetBufferChangedTick( bufnr ):$/;"	f	language:Python
+GetBufferData	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetBufferData( buffer_object ):$/;"	f	language:Python
+GetBufferFilepath	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetBufferFilepath( buffer_object ):$/;"	f	language:Python
+GetBufferFilepath_NoBufferName_UnicodeWorkingDirectory_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def GetBufferFilepath_NoBufferName_UnicodeWorkingDirectory_test():$/;"	f	language:Python
+GetBufferFiletypes	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetBufferFiletypes( bufnr ):$/;"	f	language:Python
+GetBufferNumberForFilename	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetBufferNumberForFilename( filename, create_buffer_if_needed = False ):$/;"	f	language:Python
+GetCompletionResponse	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetCompletionResponse( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetCompletionsUserMayHaveCompleted_DontReturnMatchIfNoExactMatchesAndPartial_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_DontReturnMatchIfNoExactMatchesAndPartial_test(): # noqa$/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_EmptyUserData_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_EmptyUserData_test( *args ):$/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_ReturnEmptyIfPendingMatches_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_ReturnEmptyIfPendingMatches_test($/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_ReturnMatchIfExactMatchesEvenIfPartial_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_ReturnMatchIfExactMatchesEvenIfPartial_test(): # noqa$/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_ReturnMatchIfExactMatches_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_ReturnMatchIfExactMatches_test( *args ):$/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_ReturnMatchIfMatches_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_ReturnMatchIfMatches_test( *args ):$/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_UseUserData0_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_UseUserData0_test( *args ):$/;"	f	language:Python
+GetCompletionsUserMayHaveCompleted_UseUserData1_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetCompletionsUserMayHaveCompleted_UseUserData1_test( *args ):$/;"	f	language:Python
+GetCurrentBufferFilepath	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetCurrentBufferFilepath():$/;"	f	language:Python
+GetCurrentBufferNumber	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetCurrentBufferNumber():$/;"	f	language:Python
+GetCurrentCompletionRequest	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetCurrentCompletionRequest( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetDataFromHandler	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def GetDataFromHandler( self,$/;"	m	language:Python	class:BaseRequest
+GetDataFromHandlerAsync	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def GetDataFromHandlerAsync( self,$/;"	m	language:Python	class:BaseRequest
+GetDefinedSubcommands	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetDefinedSubcommands( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetDiagnosticMatchPattern	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetDiagnosticMatchPattern( line_num,$/;"	f	language:Python
+GetDiagnosticMatchPattern_ErrorInMiddleOfLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def GetDiagnosticMatchPattern_ErrorInMiddleOfLine_test():$/;"	f	language:Python
+GetDiagnosticMatchesInCurrentWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetDiagnosticMatchesInCurrentWindow():$/;"	f	language:Python
+GetErrorCount	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def GetErrorCount( self ):$/;"	m	language:Python	class:Buffer
+GetErrorCount	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def GetErrorCount( self ):$/;"	m	language:Python	class:DiagnosticInterface
+GetErrorCount	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetErrorCount( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetIntValue	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetIntValue( variable ):$/;"	f	language:Python
+GetLines	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def GetLines( self ):$/;"	m	language:Python	class:VimBuffer
+GetLogfiles	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetLogfiles( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetOmniCompleter	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetOmniCompleter( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetParentNames	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^  def GetParentNames( group ):$/;"	f	language:Python	function:_ConnectGroupChildren	file:
+GetRequiredNamespaceImport_ReturnNamespaceFromExtraData_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetRequiredNamespaceImport_ReturnNamespaceFromExtraData_test():$/;"	f	language:Python
+GetRequiredNamespaceImport_ReturnNoneForNoExtraData_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetRequiredNamespaceImport_ReturnNoneForNoExtraData_test():$/;"	f	language:Python
+GetResponse	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def GetResponse( self ):$/;"	m	language:Python	class:Buffer
+GetSignatureHelpResponse	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetSignatureHelpResponse( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetSignsInBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetSignsInBuffer( buffer_number ):$/;"	f	language:Python
+GetTagFiles	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^    def GetTagFiles():$/;"	f	language:Python	member:YouCompleteMe._AddTagsFilesIfNeeded	file:
+GetUnsavedAndSpecifiedBufferData	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetUnsavedAndSpecifiedBufferData( included_buffer, included_filepath ):$/;"	f	language:Python
+GetUnsavedAndSpecifiedBufferData_EncodedUnicodeCharsInBuffers_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def GetUnsavedAndSpecifiedBufferData_EncodedUnicodeCharsInBuffers_test():$/;"	f	language:Python
+GetUserOptions	plugged/YouCompleteMe/python/ycm/base.py	/^def GetUserOptions():$/;"	f	language:Python
+GetVariableValue	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetVariableValue( variable ):$/;"	f	language:Python
+GetVariableValue_CompleteItemIs	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def GetVariableValue_CompleteItemIs( word, abbr = None, menu = None,$/;"	f	language:Python
+GetVimCommand	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetVimCommand( user_command, default = 'edit' ):$/;"	f	language:Python
+GetVimGlobalsKeys	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetVimGlobalsKeys():$/;"	f	language:Python
+GetWarningCount	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def GetWarningCount( self ):$/;"	m	language:Python	class:Buffer
+GetWarningCount	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def GetWarningCount( self ):$/;"	m	language:Python	class:DiagnosticInterface
+GetWarningCount	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def GetWarningCount( self ):$/;"	m	language:Python	class:YouCompleteMe
+GetWindowsForBufferNumber	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def GetWindowsForBufferNumber( buffer_number ):$/;"	f	language:Python
+Go	plugged/YouCompleteMe/README.md	/^### Go$/;"	S	language:Markdown
+GoToListTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def GoToListTest( command, response ):$/;"	f	language:Python	member:Response_Detection_test.GoTo_Single_test	file:
+GoToResponse_QuickFix_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^class GoToResponse_QuickFix_test( object ):$/;"	c	language:Python
+GoToTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def GoToTest( command, response ):$/;"	f	language:Python	member:Response_Detection_test.GoTo_Single_test	file:
+GoTo_EmptyList_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def GoTo_EmptyList_test( self ):$/;"	m	language:Python	class:GoToResponse_QuickFix_test
+GoTo_MultiItem_List_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def GoTo_MultiItem_List_test( self ):$/;"	m	language:Python	class:GoToResponse_QuickFix_test
+GoTo_SingleItem_List_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def GoTo_SingleItem_List_test( self ):$/;"	m	language:Python	class:GoToResponse_QuickFix_test
+GoTo_Single_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def GoTo_Single_test( self ):$/;"	m	language:Python	class:Response_Detection_test
+Gradle Projects	plugged/YouCompleteMe/README.md	/^#### Gradle Projects$/;"	t	language:Markdown
+HANDLE_FLAG_INHERIT	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^HANDLE_FLAG_INHERIT = 0x00000001$/;"	v	language:Python
+HAS_PATCH_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^HAS_PATCH_REGEX = re.compile( '^has\\\\( \\'patch(?P<patch>\\\\d+)\\' \\\\)$' )$/;"	v	language:Python
+HMAC_SECRET_LENGTH	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^HMAC_SECRET_LENGTH = 16$/;"	v	language:Python
+HandleFileParseRequest	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def HandleFileParseRequest( self, block = False ):$/;"	m	language:Python	class:YouCompleteMe
+HandleFuture	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def HandleFuture( self,$/;"	m	language:Python	class:BaseRequest
+HandlePollResponse_MultipleDiagnostics_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_MultipleDiagnostics_test():$/;"	f	language:Python
+HandlePollResponse_MultipleMessagesAndDiagnostics_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_MultipleMessagesAndDiagnostics_test( post_vim_message ):$/;"	f	language:Python
+HandlePollResponse_MultipleMessages_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_MultipleMessages_test( post_vim_message ):$/;"	f	language:Python
+HandlePollResponse_NoMessages_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_NoMessages_test():$/;"	f	language:Python
+HandlePollResponse_PollingNotSupported_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_PollingNotSupported_test():$/;"	f	language:Python
+HandlePollResponse_SingleDiagnostic_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_SingleDiagnostic_test():$/;"	f	language:Python
+HandlePollResponse_SingleMessage_test	plugged/YouCompleteMe/python/ycm/tests/client/messages_request_test.py	/^def HandlePollResponse_SingleMessage_test( post_vim_message ):$/;"	f	language:Python
+Help, Advice, Support	plugged/YouCompleteMe/README.md	/^Help, Advice, Support$/;"	s	language:Markdown
+HiddenEnabled	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def HiddenEnabled( buffer_object ):$/;"	f	language:Python
+INACTIVE	plugged/YouCompleteMe/python/ycm/signature_help.py	/^  INACTIVE = 'INACTIVE'$/;"	v	language:Python	class:SignatureHelpState
+InsertNamespace	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def InsertNamespace( namespace ):$/;"	f	language:Python
+InsertNamespace_append_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def InsertNamespace_append_test( vim_current, *args ):$/;"	f	language:Python
+InsertNamespace_insert_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def InsertNamespace_insert_test( vim_current, *args ):$/;"	f	language:Python
+Installation	plugged/YouCompleteMe/README.md	/^Installation$/;"	s	language:Markdown
+Installation	plugged/vim-tags/README.md	/^Installation$/;"	s	language:Markdown
+Intro	plugged/YouCompleteMe/README.md	/^Intro$/;"	s	language:Markdown
+IsAllowed	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def IsAllowed( self, diagnostic ):$/;"	m	language:Python	class:DiagnosticFilter
+IsAllowed	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def IsAllowed( self, diagnostic ):$/;"	m	language:Python	class:_MasterDiagnosticFilter
+IsResponseHandled	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def IsResponseHandled( self ):$/;"	m	language:Python	class:Buffer
+IsServerAlive	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def IsServerAlive( self ):$/;"	m	language:Python	class:YouCompleteMe
+IsServerReady	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def IsServerReady( self ):$/;"	m	language:Python	class:YouCompleteMe
+Java	plugged/YouCompleteMe/README.md	/^### Java$/;"	S	language:Markdown
+Java Project Files	plugged/YouCompleteMe/README.md	/^#### Java Project Files$/;"	t	language:Markdown
+Java Semantic Completion	plugged/YouCompleteMe/README.md	/^### Java Semantic Completion$/;"	S	language:Markdown
+Java quick Start	plugged/YouCompleteMe/README.md	/^#### Java quick Start$/;"	t	language:Markdown
+JavaScript and TypeScript	plugged/YouCompleteMe/README.md	/^### JavaScript and TypeScript$/;"	S	language:Markdown
+JumpToFile	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def JumpToFile( filename, command, modifiers ):$/;"	f	language:Python
+JumpToLocation	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def JumpToLocation( filename, line, column, modifiers, command ):$/;"	f	language:Python
+JumpToLocation_DifferentFile_NewOrExistingTab_AlreadyOpened_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_NewOrExistingTab_AlreadyOpened_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_NewOrExistingTab_NotAlreadyOpened_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_NewOrExistingTab_NotAlreadyOpened_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_SameBuffer_Modified_CanHide_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_SameBuffer_Modified_CanHide_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_SameBuffer_Modified_CannotHide_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_SameBuffer_Modified_CannotHide_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_SameBuffer_SwapFile_Abort_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_SameBuffer_SwapFile_Abort_test( vim_command ):$/;"	f	language:Python
+JumpToLocation_DifferentFile_SameBuffer_SwapFile_Quit_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_SameBuffer_SwapFile_Quit_test( vim_command ):$/;"	f	language:Python
+JumpToLocation_DifferentFile_SameBuffer_SwapFile_Unexpected_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_SameBuffer_SwapFile_Unexpected_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_SameBuffer_Unmodified_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_SameBuffer_Unmodified_test( vim_command ):$/;"	f	language:Python
+JumpToLocation_DifferentFile_Split_AllTabs_AlreadyOpened_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_Split_AllTabs_AlreadyOpened_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_Split_AllTabs_NotAlreadyOpened_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_Split_AllTabs_NotAlreadyOpened_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_Split_CurrentTab_AlreadyOpened_Case_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_Split_CurrentTab_AlreadyOpened_Case_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_Split_CurrentTab_AlreadyOpened_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_Split_CurrentTab_AlreadyOpened_test($/;"	f	language:Python
+JumpToLocation_DifferentFile_Split_CurrentTab_NotAlreadyOpened_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_DifferentFile_Split_CurrentTab_NotAlreadyOpened_test($/;"	f	language:Python
+JumpToLocation_SameFile_SameBuffer_NoSwapFile_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def JumpToLocation_SameFile_SameBuffer_NoSwapFile_test( vim_command ):$/;"	f	language:Python
+JumpToPreviewWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def JumpToPreviewWindow():$/;"	f	language:Python
+JumpToPreviousWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def JumpToPreviousWindow():$/;"	f	language:Python
+JumpToTab	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def JumpToTab( tab_number ):$/;"	f	language:Python
+JustDetailedInfo_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def JustDetailedInfo_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+JustDocString_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def JustDocString_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+KEYWORD_REGEX	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^KEYWORD_REGEX = re.compile( r'^(\\w+),?$' )$/;"	v	language:Python
+KeywordsFromSyntaxListOutput_Basic_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_Basic_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_ContainedArgAllowed_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_ContainedArgAllowed_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_CppSyntax_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_CppSyntax_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_Function_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_Function_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_JavaSyntax_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_JavaSyntax_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_JunkIgnored_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_JunkIgnored_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_MultipleStatementGroups_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_MultipleStatementGroups_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_PhpSyntax_ContainsFunctions_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_PhpSyntax_ContainsFunctions_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_PhpSyntax_ContainsPreProc_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_PhpSyntax_ContainsPreProc_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_PythonSyntax_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_PythonSyntax_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_StatementAndTypeGroups_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_StatementAndTypeGroups_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_StatementAndTypeHierarchy_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_StatementAndTypeHierarchy_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_StatementHierarchy_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_StatementHierarchy_test():$/;"	f	language:Python
+KeywordsFromSyntaxListOutput_TypeHierarchy_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def KeywordsFromSyntaxListOutput_TypeHierarchy_test():$/;"	f	language:Python
+LET_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^LET_REGEX = re.compile( '^let (?P<option>[\\\\w:]+) = (?P<value>.*)$' )$/;"	v	language:Python
+LastEnteredCharIsIdentifierChar	plugged/YouCompleteMe/python/ycm/base.py	/^def LastEnteredCharIsIdentifierChar():$/;"	f	language:Python
+LastEnteredCharIsIdentifierChar_Basic_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def LastEnteredCharIsIdentifierChar_Basic_test():$/;"	f	language:Python
+LastEnteredCharIsIdentifierChar_ColumnIsZero_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def LastEnteredCharIsIdentifierChar_ColumnIsZero_test():$/;"	f	language:Python
+LastEnteredCharIsIdentifierChar_FiletypeHtml_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def LastEnteredCharIsIdentifierChar_FiletypeHtml_test():$/;"	f	language:Python
+LastEnteredCharIsIdentifierChar_LineEmpty_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def LastEnteredCharIsIdentifierChar_LineEmpty_test():$/;"	f	language:Python
+LastEnteredCharIsIdentifierChar_NotIdentChar_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def LastEnteredCharIsIdentifierChar_NotIdentChar_test():$/;"	f	language:Python
+LastEnteredCharIsIdentifierChar_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def LastEnteredCharIsIdentifierChar_Unicode_test():$/;"	f	language:Python
+LevelErrors_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def LevelErrors_test():$/;"	f	language:Python
+LevelWarnings_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def LevelWarnings_test():$/;"	f	language:Python
+LineAndColumnNumbersClamped	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def LineAndColumnNumbersClamped( line_num, column_num ):$/;"	f	language:Python
+LineTextInCurrentBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def LineTextInCurrentBuffer( line_number ):$/;"	f	language:Python
+Linux 64-bit	plugged/YouCompleteMe/README.md	/^### Linux 64-bit$/;"	S	language:Markdown
+MATCHADD_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^MATCHADD_REGEX = re.compile($/;"	v	language:Python
+MATCHDELETE_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^MATCHDELETE_REGEX = re.compile( '^matchdelete\\\\((?P<id>\\\\d+)\\\\)$' )$/;"	v	language:Python
+MEMO	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^MEMO = {}$/;"	v	language:Python
+Main	plugged/YouCompleteMe/run_tests.py	/^def Main():$/;"	f	language:Python
+MakeServerException	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def MakeServerException( data ):$/;"	f	language:Python
+MakeSignatureHelpBuffer_Empty_test	plugged/YouCompleteMe/python/ycm/tests/signature_help_test.py	/^def MakeSignatureHelpBuffer_Empty_test():$/;"	f	language:Python
+MarkResponseHandled	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def MarkResponseHandled( self ):$/;"	m	language:Python	class:Buffer
+Maven Projects	plugged/YouCompleteMe/README.md	/^#### Maven Projects$/;"	t	language:Markdown
+MergeMultipleFiletypes_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def MergeMultipleFiletypes_test():$/;"	f	language:Python
+MessageTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def MessageTest( command, message ):$/;"	f	language:Python	member:Response_Detection_test.Message_Response_test	file:
+Message_Response_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def Message_Response_test( self ):$/;"	m	language:Python	class:Response_Detection_test
+MessagesPoll	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^class MessagesPoll( BaseRequest ):$/;"	c	language:Python
+MockArbitraryBuffer	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def MockArbitraryBuffer( filetype ):$/;"	f	language:Python
+MockAsyncServerResponseDone	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^def MockAsyncServerResponseDone( response ):$/;"	f	language:Python
+MockAsyncServerResponseException	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^def MockAsyncServerResponseException( exception ):$/;"	f	language:Python
+MockAsyncServerResponseInProgress	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^def MockAsyncServerResponseInProgress():$/;"	f	language:Python
+MockCompletionRequest	plugged/YouCompleteMe/python/ycm/tests/completion_test.py	/^def MockCompletionRequest( response_method ):$/;"	f	language:Python
+MockCurrentColumnAndLineContents	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def MockCurrentColumnAndLineContents( column, line_contents ):$/;"	f	language:Python
+MockCurrentFiletypes	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def MockCurrentFiletypes( filetypes = [ '' ] ):$/;"	f	language:Python
+MockEventNotification	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def MockEventNotification( response_method, native_filetype_completer = True ):$/;"	f	language:Python
+MockTextAfterCursor	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def MockTextAfterCursor( text ):$/;"	f	language:Python
+MockVimBuffers	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def MockVimBuffers( buffers, window_buffers, cursor_position = ( 1, 1 ) ):$/;"	f	language:Python
+MockVimModule	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def MockVimModule():$/;"	f	language:Python
+MultipleFilterTypesTypeTest_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def MultipleFilterTypesTypeTest_test():$/;"	f	language:Python
+NO_COMPLETIONS	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^NO_COMPLETIONS = {$/;"	v	language:Python
+NO_SELECTION_MADE_MSG	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^NO_SELECTION_MADE_MSG = "No valid selection was made; aborting."$/;"	v	language:Python
+NativeFiletypeCompletionAvailable	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def NativeFiletypeCompletionAvailable( self ):$/;"	m	language:Python	class:YouCompleteMe
+NativeFiletypeCompletionUsable	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def NativeFiletypeCompletionUsable( self ):$/;"	m	language:Python	class:YouCompleteMe
+NeedsReparse	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def NeedsReparse( self ):$/;"	m	language:Python	class:Buffer
+NeedsReparse	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def NeedsReparse( self ):$/;"	m	language:Python	class:YouCompleteMe
+NewCandidateInsertionText	plugged/YouCompleteMe/python/ycm/base.py	/^  def NewCandidateInsertionText( to_insert, text_after_cursor ):$/;"	f	language:Python	function:AdjustCandidateInsertionText	file:
+NoseTests	plugged/YouCompleteMe/run_tests.py	/^def NoseTests( parsed_args, extra_nosetests_args ):$/;"	f	language:Python
+NotifyUserIfServerCrashed	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def NotifyUserIfServerCrashed( self ):$/;"	m	language:Python	class:YouCompleteMe
+NullCharactersInExtraInfoAndDocString_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def NullCharactersInExtraInfoAndDocString_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+NumLinesInBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def NumLinesInBuffer( buffer_object ):$/;"	f	language:Python
+OMNIFUNC_NOT_LIST	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^OMNIFUNC_NOT_LIST = ( 'Omnifunc did not return a list or a dict with a "words" '$/;"	v	language:Python
+OMNIFUNC_REGEX_FORMAT	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^OMNIFUNC_REGEX_FORMAT = ($/;"	v	language:Python
+OMNIFUNC_RETURNED_BAD_VALUE	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^OMNIFUNC_RETURNED_BAD_VALUE = 'Omnifunc returned bad value to YCM!'$/;"	v	language:Python
+OmniCompleter	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^class OmniCompleter( Completer ):$/;"	c	language:Python
+OmniCompleter_GetCompletions_AllFiletypesDisabled_ForceSemantic_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_AllFiletypesDisabled_ForceSemantic_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_AllFiletypesDisabled_SemanticTrigger_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_AllFiletypesDisabled_SemanticTrigger_test($/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_ListFilter_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_ListFilter_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_List_Filter_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_List_Filter_Unicode_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_List_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_List_Unicode_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_List_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_List_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_ObjectListObject_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_ObjectListObject_Unicode_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_ObjectListObject_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_ObjectListObject_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_ObjectList_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_ObjectList_Unicode_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_ObjectList_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_ObjectList_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_Object_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_Object_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_Cache_UseFindStart_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_Cache_UseFindStart_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_ConvertStringsToDictionaries_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_ConvertStringsToDictionaries_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_FiletypeDisabled_ForceSemantic_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_FiletypeDisabled_ForceSemantic_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_FiletypeDisabled_SemanticTrigger_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_FiletypeDisabled_SemanticTrigger_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_MoveCursorPositionAtStartColumn_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_MoveCursorPositionAtStartColumn_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_ForceSemantic_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_ForceSemantic_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_ListFilter_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_ListFilter_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_List_Filter_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_List_Filter_Unicode_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_List_Unicode_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_List_Unicode_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_List_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_List_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_NoSemanticTrigger_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_NoSemanticTrigger_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_ObjectListObject_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_ObjectListObject_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_ObjectList_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_ObjectList_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_NoCache_UseFindStart_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_NoCache_UseFindStart_test( ycm ):$/;"	f	language:Python
+OmniCompleter_GetCompletions_RestoreCursorPositionAfterOmnifuncCall_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_RestoreCursorPositionAfterOmnifuncCall_test($/;"	f	language:Python
+OmniCompleter_GetCompletions_StartColumnCompliance_test	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def OmniCompleter_GetCompletions_StartColumnCompliance_test():$/;"	f	language:Python
+OmniCompletionRequest	plugged/YouCompleteMe/python/ycm/client/omni_completion_request.py	/^class OmniCompletionRequest( CompletionRequest ):$/;"	c	language:Python
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_AllFiletypesDisabled_ForceSemantic_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_AllFiletypesDisabled_SemanticTrigger_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_ListFilter_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_List_Filter_Unicode_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_List_Unicode_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_List_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_ObjectListObject_Unicode_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_ObjectListObject_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_ObjectList_Unicode_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_ObjectList_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_Object_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_Cache_UseFindStart_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_ConvertStringsToDictionaries_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_FiletypeDisabled_ForceSemantic_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_FiletypeDisabled_SemanticTrigger_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_MoveCursorPositionAtStartColumn_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_ForceSemantic_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_ListFilter_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_List_Filter_Unicode_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_List_Unicode_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_List_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_NoSemanticTrigger_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_ObjectListObject_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_ObjectList_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_NoCache_UseFindStart_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:OmniCompleter_GetCompletions_RestoreCursorPositionAfterOmnifuncCall_test	file:
+Omnifunc	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^  def Omnifunc( findstart, base ):$/;"	f	language:Python	function:StartColumnCompliance	file:
+OnBufferUnload	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnBufferUnload( self, deleted_buffer_number ):$/;"	m	language:Python	class:YouCompleteMe
+OnBufferVisit	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnBufferVisit( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnCompleteDone	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def OnCompleteDone( self ):$/;"	m	language:Python	class:CompletionRequest
+OnCompleteDone	plugged/YouCompleteMe/python/ycm/client/omni_completion_request.py	/^  def OnCompleteDone( self ):$/;"	m	language:Python	class:OmniCompletionRequest
+OnCompleteDone	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnCompleteDone( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnCompleteDone_CsharpFixIt_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def OnCompleteDone_CsharpFixIt_test( *args ):$/;"	f	language:Python
+OnCompleteDone_DefaultFixIt_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def OnCompleteDone_DefaultFixIt_test( *args ):$/;"	f	language:Python
+OnCompleteDone_NoFixItForOmnifunc_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def OnCompleteDone_NoFixItForOmnifunc_test( *args ):$/;"	f	language:Python
+OnCompleteDone_NoFixItIfNotDone_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def OnCompleteDone_NoFixItIfNotDone_test( *args ):$/;"	f	language:Python
+OnCurrentIdentifierFinished	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnCurrentIdentifierFinished( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnCursorMoved	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def OnCursorMoved( self ):$/;"	m	language:Python	class:Buffer
+OnCursorMoved	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def OnCursorMoved( self ):$/;"	m	language:Python	class:DiagnosticInterface
+OnCursorMoved	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnCursorMoved( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnFileReadyToParse	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnFileReadyToParse( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnFileTypeSet	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnFileTypeSet( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnInsertLeave	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnInsertLeave( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnPeriodicTick	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnPeriodicTick( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnVimLeave	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def OnVimLeave( self ):$/;"	m	language:Python	class:YouCompleteMe
+OnlyInsertionTextField_test	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def OnlyInsertionTextField_test( self ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+OpenFileInPreviewWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def OpenFileInPreviewWindow( filename ):$/;"	f	language:Python
+OpenFilename	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def OpenFilename( filename, options = {} ):$/;"	f	language:Python
+OpenFilename_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def OpenFilename_test( vim_current, vim_command ):$/;"	f	language:Python
+OpenLocationList	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def OpenLocationList( focus = False, autoclose = False ):$/;"	f	language:Python
+OpenLocationList_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def OpenLocationList_test( vim_command, fitting_height, variable_exists ):$/;"	f	language:Python
+OpenQuickFixList	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def OpenQuickFixList( focus = False, autoclose = False ):$/;"	f	language:Python
+Option 1: Use a [compilation database][compdb]	plugged/YouCompleteMe/README.md	/^#### Option 1: Use a [compilation database][compdb]$/;"	t	language:Markdown
+Option 2: Provide the flags manually	plugged/YouCompleteMe/README.md	/^#### Option 2: Provide the flags manually$/;"	t	language:Markdown
+OverlapLength	plugged/YouCompleteMe/python/ycm/base.py	/^def OverlapLength( left_string, right_string ):$/;"	f	language:Python
+OverlapLength_BasicWithUnicode_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_BasicWithUnicode_test():$/;"	f	language:Python
+OverlapLength_Basic_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_Basic_test():$/;"	f	language:Python
+OverlapLength_EmptyInput_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_EmptyInput_test():$/;"	f	language:Python
+OverlapLength_LongestOverlap_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_LongestOverlap_test():$/;"	f	language:Python
+OverlapLength_NoOverlap_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_NoOverlap_test():$/;"	f	language:Python
+OverlapLength_OneCharOverlap_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_OneCharOverlap_test():$/;"	f	language:Python
+OverlapLength_SameStrings_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_SameStrings_test():$/;"	f	language:Python
+OverlapLength_Substring_test	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^def OverlapLength_Substring_test():$/;"	f	language:Python
+Overview	plugged/YouCompleteMe/test/README.md	/^# Overview$/;"	c	language:Markdown
+PYTHON_BINARY_REGEX	plugged/YouCompleteMe/python/ycm/paths.py	/^PYTHON_BINARY_REGEX = re.compile($/;"	v	language:Python
+ParseArguments	plugged/YouCompleteMe/run_tests.py	/^def ParseArguments():$/;"	f	language:Python
+PatchNoProxy	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^def PatchNoProxy():$/;"	f	language:Python
+PathToPythonInterpreter	plugged/YouCompleteMe/python/ycm/paths.py	/^def PathToPythonInterpreter():$/;"	f	language:Python
+PathToServerScript	plugged/YouCompleteMe/python/ycm/paths.py	/^def PathToServerScript():$/;"	f	language:Python
+PathToTestFile	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def PathToTestFile( *args ):$/;"	f	language:Python
+PlaceSign	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def PlaceSign( sign ):$/;"	f	language:Python
+Poll	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^  def Poll( self, diagnostics_handler ):$/;"	m	language:Python	class:MessagesPoll
+PopulateLocationList	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def PopulateLocationList( self ):$/;"	m	language:Python	class:Buffer
+PopulateLocationList	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def PopulateLocationList( self ):$/;"	m	language:Python	class:DiagnosticInterface
+Ported from Vim	plugged/YouCompleteMe/test/README.md	/^## Ported from Vim$/;"	s	language:Markdown
+PostCompleteCsharp_EmptyDoesntInsertNamespace_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteCsharp_EmptyDoesntInsertNamespace_test( *args ):$/;"	f	language:Python
+PostCompleteCsharp_ExistingWithoutNamespaceDoesntInsertNamespace_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteCsharp_ExistingWithoutNamespaceDoesntInsertNamespace_test($/;"	f	language:Python
+PostCompleteCsharp_InsertSecondNamespaceIfSelected_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteCsharp_InsertSecondNamespaceIfSelected_test( *args ):$/;"	f	language:Python
+PostCompleteCsharp_ValueDoesInsertNamespace_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteCsharp_ValueDoesInsertNamespace_test( *args ):$/;"	f	language:Python
+PostCompleteFixIt_ApplyFixIt_EmptyFixIt_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteFixIt_ApplyFixIt_EmptyFixIt_test( replace_chunks, *args ):$/;"	f	language:Python
+PostCompleteFixIt_ApplyFixIt_NoFixIt_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteFixIt_ApplyFixIt_NoFixIt_test( replace_chunks, *args ):$/;"	f	language:Python
+PostCompleteFixIt_ApplyFixIt_NoFixIts_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteFixIt_ApplyFixIt_NoFixIts_test( replace_chunks, *args ):$/;"	f	language:Python
+PostCompleteFixIt_ApplyFixIt_PickFirstUserData_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteFixIt_ApplyFixIt_PickFirstUserData_test( replace_chunks,$/;"	f	language:Python
+PostCompleteFixIt_ApplyFixIt_PickFirst_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteFixIt_ApplyFixIt_PickFirst_test( replace_chunks, *args ):$/;"	f	language:Python
+PostCompleteFixIt_ApplyFixIt_PickSecond_test	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def PostCompleteFixIt_ApplyFixIt_PickSecond_test( replace_chunks, *args ):$/;"	f	language:Python
+PostDataToHandler	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def PostDataToHandler( self,$/;"	m	language:Python	class:BaseRequest
+PostDataToHandlerAsync	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def PostDataToHandlerAsync( data, handler, timeout = _READ_TIMEOUT_SEC ):$/;"	m	language:Python	class:BaseRequest
+PostVimMessage	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def PostVimMessage( message, warning = True, truncate = False ):$/;"	f	language:Python
+PresentDialog	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def PresentDialog( message, choices, default_choice_index = 0 ):$/;"	f	language:Python
+PresentDialog_Confirm_Call	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def PresentDialog_Confirm_Call( message ):$/;"	f	language:Python
+Python	plugged/YouCompleteMe/README.md	/^### Python$/;"	S	language:Markdown
+Quick Feature Summary	plugged/YouCompleteMe/README.md	/^Quick Feature Summary$/;"	s	language:Markdown
+Quick Start	plugged/YouCompleteMe/test/README.md	/^# Quick Start$/;"	c	language:Markdown
+REDIR	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^REDIR = {$/;"	v	language:Python
+REDIR_END_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^REDIR_END_REGEX = re.compile( '^redir END$' )$/;"	v	language:Python
+REDIR_START_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^REDIR_START_REGEX = re.compile( '^redir => (?P<variable>[\\\\w:]+)$' )$/;"	v	language:Python
+ROOT_GROUPS	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^ROOT_GROUPS = {$/;"	v	language:Python
+RegexFilter_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def RegexFilter_test():$/;"	f	language:Python
+RegexMultiList_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def RegexMultiList_test():$/;"	f	language:Python
+RegexNotFiltered_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def RegexNotFiltered_test():$/;"	f	language:Python
+RegexSingleList_test	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def RegexSingleList_test():$/;"	f	language:Python
+RemoveDiagnosticMatch	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def RemoveDiagnosticMatch( match ):$/;"	f	language:Python
+ReplaceChunk	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ReplaceChunk( start, end, replacement_text, vim_buffer ):$/;"	f	language:Python
+ReplaceChunk_AddTextInLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_AddTextInLine_test():$/;"	f	language:Python
+ReplaceChunk_BeyondEndOfFile_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_BeyondEndOfFile_test():$/;"	f	language:Python
+ReplaceChunk_CursorPosition_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_CursorPosition_test():$/;"	f	language:Python
+ReplaceChunk_DeleteTextInLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_DeleteTextInLine_test():$/;"	f	language:Python
+ReplaceChunk_MultipleLinesToEvenLessMultipleLines_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_MultipleLinesToEvenLessMultipleLines_test():$/;"	f	language:Python
+ReplaceChunk_MultipleLinesToLessMultipleLines_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_MultipleLinesToLessMultipleLines_test():$/;"	f	language:Python
+ReplaceChunk_MultipleLinesToMoreMultipleLines_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_MultipleLinesToMoreMultipleLines_test():$/;"	f	language:Python
+ReplaceChunk_MultipleLinesToSameMultipleLines_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_MultipleLinesToSameMultipleLines_test():$/;"	f	language:Python
+ReplaceChunk_MultipleLinesToSingleLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_MultipleLinesToSingleLine_test():$/;"	f	language:Python
+ReplaceChunk_NewlineChunk_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_NewlineChunk_test():$/;"	f	language:Python
+ReplaceChunk_RemoveSingleLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_RemoveSingleLine_test():$/;"	f	language:Python
+ReplaceChunk_ReplaceTextInLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_ReplaceTextInLine_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Add_1_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Add_1_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Add_2_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Add_2_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Add_3_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Add_3_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Del_1_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Del_1_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Del_2_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Del_2_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Del_3_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Del_3_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Repl_1_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Repl_1_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Repl_2_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Repl_2_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Repl_3_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Repl_3_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Unicode_Grown_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Unicode_Grown_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Unicode_ReplaceAfterUnicode_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Unicode_ReplaceAfterUnicode_test():$/;"	f	language:Python
+ReplaceChunk_SingleLine_Unicode_ReplaceUnicodeChars_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleLine_Unicode_ReplaceUnicodeChars_test():$/;"	f	language:Python
+ReplaceChunk_SingleToMultipleLines2_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleToMultipleLines2_test():$/;"	f	language:Python
+ReplaceChunk_SingleToMultipleLines3_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleToMultipleLines3_test():$/;"	f	language:Python
+ReplaceChunk_SingleToMultipleLinesReplace_2_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleToMultipleLinesReplace_2_test():$/;"	f	language:Python
+ReplaceChunk_SingleToMultipleLinesReplace_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleToMultipleLinesReplace_test():$/;"	f	language:Python
+ReplaceChunk_SingleToMultipleLines_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SingleToMultipleLines_test():$/;"	f	language:Python
+ReplaceChunk_SpanBufferEdge_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunk_SpanBufferEdge_test():$/;"	f	language:Python
+ReplaceChunks	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ReplaceChunks( chunks, silent=False ):$/;"	f	language:Python
+ReplaceChunksInBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ReplaceChunksInBuffer( chunks, vim_buffer ):$/;"	f	language:Python
+ReplaceChunksInBuffer_LineOverlappingChunks_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunksInBuffer_LineOverlappingChunks_test():$/;"	f	language:Python
+ReplaceChunksInBuffer_OneLineIndentingChunks_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunksInBuffer_OneLineIndentingChunks_test():$/;"	f	language:Python
+ReplaceChunksInBuffer_OutdentChunks_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunksInBuffer_OutdentChunks_test():$/;"	f	language:Python
+ReplaceChunksInBuffer_SameLocation_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunksInBuffer_SameLocation_test():$/;"	f	language:Python
+ReplaceChunksInBuffer_SortedChunks_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunksInBuffer_SortedChunks_test():$/;"	f	language:Python
+ReplaceChunksInBuffer_UnsortedChunks_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunksInBuffer_UnsortedChunks_test():$/;"	f	language:Python
+ReplaceChunks_MultiFile_Open_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunks_MultiFile_Open_test( vim_command,$/;"	f	language:Python
+ReplaceChunks_SingleFile_NotOpen_Silent_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunks_SingleFile_NotOpen_Silent_test($/;"	f	language:Python
+ReplaceChunks_SingleFile_NotOpen_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunks_SingleFile_NotOpen_test( vim_command,$/;"	f	language:Python
+ReplaceChunks_SingleFile_Open_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunks_SingleFile_Open_test( vim_command,$/;"	f	language:Python
+ReplaceChunks_User_Aborts_Opening_File_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunks_User_Aborts_Opening_File_test($/;"	f	language:Python
+ReplaceChunks_User_Declines_To_Open_File_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def ReplaceChunks_User_Declines_To_Open_File_test($/;"	f	language:Python
+Requests	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def Requests( cls ):$/;"	m	language:Python	class:BaseRequest
+Reset	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Reset( self ):$/;"	m	language:Python	class:SignatureHelpRequest
+Response	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def Response( self ):$/;"	m	language:Python	class:BaseRequest
+Response	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def Response( self ):$/;"	m	language:Python	class:CommandRequest
+Response	plugged/YouCompleteMe/python/ycm/client/completer_available_request.py	/^  def Response( self ):$/;"	m	language:Python	class:CompleterAvailableRequest
+Response	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def Response( self ):$/;"	m	language:Python	class:CompletionRequest
+Response	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^  def Response( self ):$/;"	m	language:Python	class:DebugInfoRequest
+Response	plugged/YouCompleteMe/python/ycm/client/event_notification.py	/^  def Response( self ):$/;"	m	language:Python	class:EventNotification
+Response	plugged/YouCompleteMe/python/ycm/client/omni_completion_request.py	/^  def Response( self ):$/;"	m	language:Python	class:OmniCompletionRequest
+Response	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Response( self ):$/;"	m	language:Python	class:SignatureHelpAvailableRequest
+Response	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Response( self ):$/;"	m	language:Python	class:SignatureHelpRequest
+Response_Detection_test	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^class Response_Detection_test( object ):$/;"	c	language:Python
+Response_FromOmniCompleter_test	plugged/YouCompleteMe/python/ycm/tests/client/omni_completion_request_tests.py	/^def Response_FromOmniCompleter_test():$/;"	f	language:Python
+RestartServer	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def RestartServer( self ):$/;"	m	language:Python	class:YouCompleteMe
+Restricting what is run	plugged/YouCompleteMe/test/README.md	/^# Restricting what is run$/;"	c	language:Markdown
+Result	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^  def Result( variable ):$/;"	f	language:Python	function:GetVariableValue_CompleteItemIs	file:
+Ruby Manager	plugged/vim-tags/README.md	/^Ruby Manager$/;"	s	language:Markdown
+RunFlake8	plugged/YouCompleteMe/run_tests.py	/^def RunFlake8():$/;"	f	language:Python
+RunNotifyUserIfServerCrashed	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def RunNotifyUserIfServerCrashed( ycm, test, post_vim_message ):$/;"	f	language:Python
+RunPostCommandActionsIfNeeded	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def RunPostCommandActionsIfNeeded( self, modifiers ):$/;"	m	language:Python	class:CommandRequest
+RunTheTest	plugged/YouCompleteMe/test/lib/run_test.vim	/^func RunTheTest(test)$/;"	f	language:Vim
+Running the tests in docker	plugged/YouCompleteMe/test/README.md	/^## Running the tests in docker$/;"	s	language:Markdown
+Rust	plugged/YouCompleteMe/README.md	/^### Rust$/;"	S	language:Markdown
+SERVER_IDLE_SUICIDE_SECONDS	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^SERVER_IDLE_SUICIDE_SECONDS = 1800  # 30 minutes$/;"	v	language:Python
+SERVER_LOGFILE_FORMAT	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^SERVER_LOGFILE_FORMAT = 'ycmd_{port}_{std}_'$/;"	v	language:Python
+SERVER_SHUTDOWN_MESSAGE	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^SERVER_SHUTDOWN_MESSAGE = ($/;"	v	language:Python
+SIGN_BUFFER_ID_INITIAL_VALUE	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^SIGN_BUFFER_ID_INITIAL_VALUE = 100000000$/;"	v	language:Python
+SIGN_ID_FOR_BUFFER	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^SIGN_ID_FOR_BUFFER = defaultdict( lambda: SIGN_BUFFER_ID_INITIAL_VALUE )$/;"	v	language:Python
+SIGN_LIST_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^SIGN_LIST_REGEX = re.compile($/;"	v	language:Python
+SIGN_PLACE_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^SIGN_PLACE_REGEX = re.compile($/;"	v	language:Python
+SIGN_PLACE_REGEX	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^SIGN_PLACE_REGEX = re.compile($/;"	v	language:Python
+SIGN_UNPLACE_REGEX	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^SIGN_UNPLACE_REGEX = re.compile($/;"	v	language:Python
+SYNTAX_ARGUMENT_REGEX	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^SYNTAX_ARGUMENT_REGEX = re.compile($/;"	v	language:Python
+SYNTAX_GROUP_REGEX	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^SYNTAX_GROUP_REGEX = re.compile($/;"	v	language:Python
+SYNTAX_NEXTGROUP_ARGUMENTS	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^SYNTAX_NEXTGROUP_ARGUMENTS = {$/;"	v	language:Python
+SYNTAX_REGION_ARGUMENT_REGEX	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^SYNTAX_REGION_ARGUMENT_REGEX = re.compile($/;"	v	language:Python
+ScreenPositionForLineColumnInWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def ScreenPositionForLineColumnInWindow( window, line, column ):$/;"	f	language:Python
+SearchInCurrentBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SearchInCurrentBuffer( pattern ):$/;"	f	language:Python
+SelectEntry	plugged/YouCompleteMe/test/fixit.test.vim	/^  function! SelectEntry( id ) closure$/;"	f	language:Vim
+SelectFromList	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SelectFromList( prompt, items ):$/;"	f	language:Python
+SelectFromList_FirstItem_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SelectFromList_FirstItem_test( vim_eval ):$/;"	f	language:Python
+SelectFromList_LastItem_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SelectFromList_LastItem_test( vim_eval ):$/;"	f	language:Python
+SelectFromList_Negative_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SelectFromList_Negative_test( vim_eval ):$/;"	f	language:Python
+SelectFromList_OutOfRange_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SelectFromList_OutOfRange_test( vim_eval ):$/;"	f	language:Python
+SelectFromList_SelectPrompt_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SelectFromList_SelectPrompt_test( vim_eval ):$/;"	f	language:Python
+Selecting a C-family completion engine	plugged/YouCompleteMe/README.md	/^#### Selecting a C-family completion engine$/;"	t	language:Markdown
+SendCommandRequest	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^def SendCommandRequest( arguments,$/;"	f	language:Python
+SendCommandRequest	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def SendCommandRequest( self,$/;"	m	language:Python	class:YouCompleteMe
+SendCommandRequest_BuildRange_NoVisualMarks_test	plugged/YouCompleteMe/python/ycm/tests/command_test.py	/^def SendCommandRequest_BuildRange_NoVisualMarks_test( ycm, *args ):$/;"	f	language:Python
+SendCommandRequest_BuildRange_VisualMarks_test	plugged/YouCompleteMe/python/ycm/tests/command_test.py	/^def SendCommandRequest_BuildRange_VisualMarks_test( ycm, *args ):$/;"	f	language:Python
+SendCommandRequest_ExtraConfData_UndefinedValue_test	plugged/YouCompleteMe/python/ycm/tests/command_test.py	/^def SendCommandRequest_ExtraConfData_UndefinedValue_test( ycm ):$/;"	f	language:Python
+SendCommandRequest_ExtraConfVimData_Works_test	plugged/YouCompleteMe/python/ycm/tests/command_test.py	/^def SendCommandRequest_ExtraConfVimData_Works_test( ycm ):$/;"	f	language:Python
+SendCommandRequest_IgnoreFileTypeOption_test	plugged/YouCompleteMe/python/ycm/tests/command_test.py	/^def SendCommandRequest_IgnoreFileTypeOption_test( ycm, *args ):$/;"	f	language:Python
+SendCompleterAvailableRequest	plugged/YouCompleteMe/python/ycm/client/completer_available_request.py	/^def SendCompleterAvailableRequest( filetypes ):$/;"	f	language:Python
+SendCompletionRequest	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def SendCompletionRequest( self, force_semantic = False ):$/;"	m	language:Python	class:YouCompleteMe
+SendCompletionRequest_ErrorFromServer_test	plugged/YouCompleteMe/python/ycm/tests/completion_test.py	/^def SendCompletionRequest_ErrorFromServer_test( ycm,$/;"	f	language:Python
+SendCompletionRequest_ResponseContainingError_test	plugged/YouCompleteMe/python/ycm/tests/completion_test.py	/^def SendCompletionRequest_ResponseContainingError_test( ycm, post_vim_message ):$/;"	f	language:Python
+SendCompletionRequest_UnicodeWorkingDirectory_test	plugged/YouCompleteMe/python/ycm/tests/completion_test.py	/^def SendCompletionRequest_UnicodeWorkingDirectory_test( ycm ):$/;"	f	language:Python
+SendDebugInfoRequest	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^def SendDebugInfoRequest( extra_data = None ):$/;"	f	language:Python
+SendEventNotificationAsync	plugged/YouCompleteMe/python/ycm/client/event_notification.py	/^def SendEventNotificationAsync( event_name,$/;"	f	language:Python
+SendParseRequest	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def SendParseRequest( self, extra_data ):$/;"	m	language:Python	class:Buffer
+SendShutdownRequest	plugged/YouCompleteMe/python/ycm/client/shutdown_request.py	/^def SendShutdownRequest():$/;"	f	language:Python
+SendSignatureHelpRequest	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def SendSignatureHelpRequest( self ):$/;"	m	language:Python	class:YouCompleteMe
+ServerPid	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ServerPid( self ):$/;"	m	language:Python	class:YouCompleteMe
+ServerResponse	plugged/YouCompleteMe/python/ycm/tests/completion_test.py	/^  def ServerResponse( *args ):$/;"	f	language:Python	function:SendCompletionRequest_ResponseContainingError_test	file:
+ServerResponse	plugged/YouCompleteMe/python/ycm/tests/completion_test.py	/^  def ServerResponse( *args ):$/;"	f	language:Python	function:SendCompletionRequest_UnicodeWorkingDirectory_test	file:
+Session	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def Session( cls ):$/;"	m	language:Python	class:BaseRequest
+SetCurrentLineAndColumn	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetCurrentLineAndColumn( line, column ):$/;"	f	language:Python
+SetFittingHeightForCurrentWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetFittingHeightForCurrentWindow():$/;"	f	language:Python
+SetFittingHeightForCurrentWindow_LineWrapOff_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetFittingHeightForCurrentWindow_LineWrapOff_test( vim_command, *args ):$/;"	f	language:Python
+SetFittingHeightForCurrentWindow_LineWrapOn_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetFittingHeightForCurrentWindow_LineWrapOn_test( vim_command, *args ):$/;"	f	language:Python
+SetLocationList	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetLocationList( diagnostics ):$/;"	f	language:Python
+SetLocationListForWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetLocationListForWindow( window_number, diagnostics ):$/;"	f	language:Python
+SetLocationList_NotCurrent_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetLocationList_NotCurrent_test( vim_eval ):$/;"	f	language:Python
+SetLocationList_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetLocationList_test( vim_eval ):$/;"	f	language:Python
+SetLocationListsForBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetLocationListsForBuffer( buffer_number, diagnostics ):$/;"	f	language:Python
+SetLocationListsForBuffer_Current_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetLocationListsForBuffer_Current_test( vim_eval ):$/;"	f	language:Python
+SetLocationListsForBuffer_MultipleWindows_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetLocationListsForBuffer_MultipleWindows_test( vim_eval ):$/;"	f	language:Python
+SetLocationListsForBuffer_NotCurrent_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetLocationListsForBuffer_NotCurrent_test( vim_eval ):$/;"	f	language:Python
+SetLocationListsForBuffer_NotVisible_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def SetLocationListsForBuffer_NotVisible_test( vim_eval ):$/;"	f	language:Python
+SetQuickFixList	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetQuickFixList( quickfix_list ):$/;"	f	language:Python
+SetUp	plugged/YouCompleteMe/test/completion.test.vim	/^function! SetUp()$/;"	f	language:Vim
+SetUp	plugged/YouCompleteMe/test/diagnostics.test.vim	/^function! SetUp()$/;"	f	language:Vim
+SetUp	plugged/YouCompleteMe/test/fixit.test.vim	/^function! SetUp()$/;"	f	language:Vim
+SetUp	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! SetUp()$/;"	f	language:Vim
+SetVariableValue	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SetVariableValue( variable, value ):$/;"	f	language:Python
+ShouldResend	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def ShouldResend( self ):$/;"	m	language:Python	class:BaseRequest
+ShouldResendFileParseRequest	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ShouldResendFileParseRequest( self ):$/;"	m	language:Python	class:YouCompleteMe
+ShouldResendParseRequest	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def ShouldResendParseRequest( self ):$/;"	m	language:Python	class:Buffer
+ShouldUseCache	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def ShouldUseCache( self ):$/;"	m	language:Python	class:OmniCompleter
+ShouldUseNow	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def ShouldUseNow( self, request_data ):$/;"	m	language:Python	class:OmniCompleter
+ShouldUseNowInner	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def ShouldUseNowInner( self, request_data ):$/;"	m	language:Python	class:OmniCompleter
+ShouldUseSignatureHelp	plugged/YouCompleteMe/python/ycm/signature_help.py	/^def ShouldUseSignatureHelp():$/;"	f	language:Python
+ShowDetailedDiagnostic	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ShowDetailedDiagnostic( self ):$/;"	m	language:Python	class:YouCompleteMe
+ShowDiagnostics	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ShowDiagnostics( self ):$/;"	m	language:Python	class:YouCompleteMe
+ShutdownRequest	plugged/YouCompleteMe/python/ycm/client/shutdown_request.py	/^class ShutdownRequest( BaseRequest ):$/;"	c	language:Python
+SigHelpAvailableByFileType	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^class SigHelpAvailableByFileType( dict ):$/;"	c	language:Python
+Signature Help	plugged/YouCompleteMe/README.md	/^### Signature Help$/;"	S	language:Markdown
+SignatureHelpAvailableRequest	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^class SignatureHelpAvailableRequest( BaseRequest ):$/;"	c	language:Python
+SignatureHelpRequest	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^class SignatureHelpRequest( BaseRequest ):$/;"	c	language:Python
+SignatureHelpRequestReady	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def SignatureHelpRequestReady( self ):$/;"	m	language:Python	class:YouCompleteMe
+SignatureHelpState	plugged/YouCompleteMe/python/ycm/signature_help.py	/^class SignatureHelpState( object ):$/;"	c	language:Python
+SplitLines	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def SplitLines( contents ):$/;"	f	language:Python
+Start	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def Start( self ):$/;"	m	language:Python	class:BaseRequest
+Start	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def Start( self ):$/;"	m	language:Python	class:CommandRequest
+Start	plugged/YouCompleteMe/python/ycm/client/completer_available_request.py	/^  def Start( self ):$/;"	m	language:Python	class:CompleterAvailableRequest
+Start	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def Start( self ):$/;"	m	language:Python	class:CompletionRequest
+Start	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^  def Start( self ):$/;"	m	language:Python	class:DebugInfoRequest
+Start	plugged/YouCompleteMe/python/ycm/client/event_notification.py	/^  def Start( self ):$/;"	m	language:Python	class:EventNotification
+Start	plugged/YouCompleteMe/python/ycm/client/omni_completion_request.py	/^  def Start( self ):$/;"	m	language:Python	class:OmniCompletionRequest
+Start	plugged/YouCompleteMe/python/ycm/client/shutdown_request.py	/^  def Start( self ):$/;"	m	language:Python	class:ShutdownRequest
+Start	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Start( self ):$/;"	m	language:Python	class:SignatureHelpRequest
+Start	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def Start( self, filetype ):$/;"	m	language:Python	class:SignatureHelpAvailableRequest
+Start	plugged/YouCompleteMe/python/ycm/client/ycmd_keepalive.py	/^  def Start( self ):$/;"	m	language:Python	class:YcmdKeepalive
+StartColumnCompliance	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^def StartColumnCompliance( ycm,$/;"	f	language:Python
+StopServer	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def StopServer( ycm ):$/;"	f	language:Python
+SubsetForTypes	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def SubsetForTypes( self, filetypes ):$/;"	m	language:Python	class:DiagnosticFilter
+SubsetForTypes	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def SubsetForTypes( self, filetypes ):$/;"	m	language:Python	class:_MasterDiagnosticFilter
+SupportedFiletypes	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def SupportedFiletypes( self ):$/;"	m	language:Python	class:OmniCompleter
+SyntaxGroup	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^class SyntaxGroup( object ):$/;"	c	language:Python
+SyntaxGroupsFromOutput_Basic_test	plugged/YouCompleteMe/python/ycm/tests/syntax_parse_test.py	/^def SyntaxGroupsFromOutput_Basic_test():$/;"	f	language:Python
+SyntaxKeywordsForCurrentBuffer	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def SyntaxKeywordsForCurrentBuffer():$/;"	f	language:Python
+TIMEOUT_SECONDS	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^TIMEOUT_SECONDS = 60$/;"	v	language:Python
+TIMEOUT_SECONDS	plugged/YouCompleteMe/python/ycm/client/shutdown_request.py	/^TIMEOUT_SECONDS = 0.1$/;"	v	language:Python
+TRIGGERS	plugged/YouCompleteMe/python/ycm/tests/omni_completer_test.py	/^TRIGGERS = {$/;"	v	language:Python
+TagsGenerate	plugged/vim-tags/plugin/tags.vim	/^command! -bang -nargs=0 TagsGenerate :call s:generate_tags(<bang>0, 1)$/;"	c	language:Vim
+TearDown	plugged/YouCompleteMe/test/completion.test.vim	/^function! TearDown()$/;"	f	language:Vim
+TearDown	plugged/YouCompleteMe/test/diagnostics.test.vim	/^function! TearDown()$/;"	f	language:Vim
+TearDown	plugged/YouCompleteMe/test/fixit.test.vim	/^function! TearDown()$/;"	f	language:Vim
+TearDown	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! TearDown()$/;"	f	language:Vim
+Test Framework	plugged/YouCompleteMe/test/README.md	/^# Test Framework$/;"	c	language:Markdown
+Test Scripts	plugged/YouCompleteMe/test/README.md	/^# Test Scripts$/;"	c	language:Markdown
+Test_Changing_Filetype_Refreshes_Diagnostics	plugged/YouCompleteMe/test/diagnostics.test.vim	/^function! Test_Changing_Filetype_Refreshes_Diagnostics()$/;"	f	language:Vim
+Test_Compl_After_Trigger	plugged/YouCompleteMe/test/completion.test.vim	/^function! Test_Compl_After_Trigger()$/;"	f	language:Vim
+Test_Enough_Screen_Space	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Enough_Screen_Space()$/;"	f	language:Vim
+Test_MessagePoll_After_LocationList	plugged/YouCompleteMe/test/diagnostics.test.vim	/^function! Test_MessagePoll_After_LocationList()$/;"	f	language:Vim
+Test_MessagePoll_Multiple_Filetypes	plugged/YouCompleteMe/test/diagnostics.test.vim	/^function! Test_MessagePoll_Multiple_Filetypes()$/;"	f	language:Vim
+Test_Placement_MultiLine	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Placement_MultiLine()$/;"	f	language:Vim
+Test_Placement_Simple	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Placement_Simple()$/;"	f	language:Vim
+Test_Ranged_Fixit_Works	plugged/YouCompleteMe/test/fixit.test.vim	/^function! Test_Ranged_Fixit_Works()$/;"	f	language:Vim
+Test_Signatures_After_Trigger	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Signatures_After_Trigger()$/;"	f	language:Vim
+Test_Signatures_TopLine	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Signatures_TopLine()$/;"	f	language:Vim
+Test_Signatures_TopLineWithPUM	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Signatures_TopLineWithPUM()$/;"	f	language:Vim
+Test_Signatures_With_PUM_NoSigns	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Signatures_With_PUM_NoSigns()$/;"	f	language:Vim
+Test_Signatures_With_PUM_Signs	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! Test_Signatures_With_PUM_Signs()$/;"	f	language:Vim
+Test_Unresolved_Fixit_Works	plugged/YouCompleteMe/test/fixit.test.vim	/^function! Test_Unresolved_Fixit_Works()$/;"	f	language:Vim
+TextAfterCursor	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def TextAfterCursor():$/;"	f	language:Python
+TextAfterCursor_EncodedUnicode_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def TextAfterCursor_EncodedUnicode_test( *args ):$/;"	f	language:Python
+TextBeforeCursor	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def TextBeforeCursor():$/;"	f	language:Python
+TextBeforeCursor_EncodedUnicode_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def TextBeforeCursor_EncodedUnicode_test( *args ):$/;"	f	language:Python
+The test plugin	plugged/YouCompleteMe/test/README.md	/^# The test plugin$/;"	c	language:Markdown
+Tips and tricks	plugged/YouCompleteMe/test/README.md	/^# Tips and tricks$/;"	c	language:Markdown
+ToBytesOnPY2	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def ToBytesOnPY2( data ):$/;"	f	language:Python
+ToggleLogs	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def ToggleLogs( self, *filenames ):$/;"	m	language:Python	class:YouCompleteMe
+Troubleshoot
+TryJumpLocationInTab	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def TryJumpLocationInTab( tab, filename, line, column ):$/;"	f	language:Python
+TryJumpLocationInTabs	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def TryJumpLocationInTabs( filename, line, column ):$/;"	f	language:Python
+UnknownExtraConfResponse	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^  def UnknownExtraConfResponse( *args ):$/;"	f	language:Python	function:EventNotification_FileReadyToParse_NonDiagnostic_ConfirmExtraConf_test	file:
+UnplaceSign	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def UnplaceSign( sign ):$/;"	f	language:Python
+UnsafeThreadPoolExecutor	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^class UnsafeThreadPoolExecutor( _base.Executor ):$/;"	c	language:Python
+UpdateDiagnostics	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def UpdateDiagnostics( self, force = False ):$/;"	m	language:Python	class:Buffer
+UpdateFromFileTypes	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def UpdateFromFileTypes( self, filetypes ):$/;"	m	language:Python	class:Buffer
+UpdateMatches	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def UpdateMatches( self ):$/;"	m	language:Python	class:Buffer
+UpdateMatches	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def UpdateMatches( self ):$/;"	m	language:Python	class:DiagnosticInterface
+UpdateMatches	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def UpdateMatches( self ):$/;"	m	language:Python	class:YouCompleteMe
+UpdateSignatureHelp	plugged/YouCompleteMe/python/ycm/signature_help.py	/^def UpdateSignatureHelp( state, signature_info ): # noqa$/;"	f	language:Python
+UpdateSignatureHelp	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def UpdateSignatureHelp( self, signature_info ):$/;"	m	language:Python	class:YouCompleteMe
+UpdateWithNewDiagnostics	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def UpdateWithNewDiagnostics( self, diagnostics ):$/;"	m	language:Python	class:Buffer
+UpdateWithNewDiagnostics	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def UpdateWithNewDiagnostics( self, diags ):$/;"	m	language:Python	class:DiagnosticInterface
+UpdateWithNewDiagnosticsForFile	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def UpdateWithNewDiagnosticsForFile( self, filepath, diagnostics ):$/;"	m	language:Python	class:YouCompleteMe
+Usage	plugged/vim-tags/README.md	/^Usage$/;"	s	language:Markdown
+User Guide	plugged/YouCompleteMe/README.md	/^User Guide$/;"	s	language:Markdown
+UserOptions	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def UserOptions( options ):$/;"	f	language:Python
+VIM_MATCHES_FOR_WINDOW	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^VIM_MATCHES_FOR_WINDOW = defaultdict( list )$/;"	v	language:Python
+VIM_MOCK	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^VIM_MOCK = MagicMock()$/;"	v	language:Python
+VIM_OPTIONS	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^VIM_OPTIONS = {$/;"	v	language:Python
+VIM_SIGNS	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^VIM_SIGNS = []$/;"	v	language:Python
+VIM_VERSION	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^VIM_VERSION = Version( 7, 4, 1578 )$/;"	v	language:Python
+VariableExists	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def VariableExists( variable ):$/;"	f	language:Python
+Version	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^Version = namedtuple( 'Version', [ 'major', 'minor', 'patch' ] )$/;"	v	language:Python
+Vim-Tags	plugged/vim-tags/README.md	/^Vim-Tags$/;"	c	language:Markdown
+Vim-Tags version 0.1.0	plugged/vim-tags/README.md	/^Vim-Tags version 0.1.0$/;"	s	language:Markdown
+VimBuffer	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimBuffer( object ):$/;"	c	language:Python
+VimBuffers	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimBuffers( object ):$/;"	c	language:Python
+VimCurrent	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimCurrent( object ):$/;"	c	language:Python
+VimError	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimError( Exception ):$/;"	c	language:Python
+VimExpressionToPythonType	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def VimExpressionToPythonType( vim_expression ):$/;"	f	language:Python
+VimExpressionToPythonType_GeneratorPassthrough_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_GeneratorPassthrough_test( *args ):$/;"	f	language:Python
+VimExpressionToPythonType_IntAsBytes_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_IntAsBytes_test( *args ):$/;"	f	language:Python
+VimExpressionToPythonType_IntAsUnicode_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_IntAsUnicode_test( *args ):$/;"	f	language:Python
+VimExpressionToPythonType_ListPassthrough_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_ListPassthrough_test( *args ):$/;"	f	language:Python
+VimExpressionToPythonType_ObjectPassthrough_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_ObjectPassthrough_test( *args ):$/;"	f	language:Python
+VimExpressionToPythonType_StringAsBytes_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_StringAsBytes_test( *args ):$/;"	f	language:Python
+VimExpressionToPythonType_StringAsUnicode_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimExpressionToPythonType_StringAsUnicode_test( *args ):$/;"	f	language:Python
+VimHasFunction	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def VimHasFunction( func ):$/;"	f	language:Python
+VimHasFunction_Memo_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimHasFunction_Memo_test( GetIntValue ):$/;"	f	language:Python
+VimHasFunctions	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def VimHasFunctions( *functions ):$/;"	f	language:Python
+VimMatch	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimMatch( object ):$/;"	c	language:Python
+VimSign	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimSign( object ):$/;"	c	language:Python
+VimSupportsPopupWindows	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def VimSupportsPopupWindows():$/;"	f	language:Python
+VimSupportsPopupWindows_Memo_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimSupportsPopupWindows_Memo_test( *args ):$/;"	f	language:Python
+VimVersionAtLeast	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def VimVersionAtLeast( version_string ):$/;"	f	language:Python
+VimVersionAtLeast_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def VimVersionAtLeast_test():$/;"	f	language:Python
+VimWindow	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimWindow( object ):$/;"	c	language:Python
+VimWindows	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^class VimWindows( object ):$/;"	c	language:Python
+WIN_PYTHON_PATH	plugged/YouCompleteMe/python/ycm/paths.py	/^WIN_PYTHON_PATH = os.path.join( sys.exec_prefix, 'python.exe' )$/;"	v	language:Python
+WaitFor	plugged/YouCompleteMe/test/lib/plugin/shared.vim	/^func WaitFor(expr, ...)$/;"	f	language:Vim
+WaitForAssert	plugged/YouCompleteMe/test/lib/plugin/shared.vim	/^func WaitForAssert(assert, ...)$/;"	f	language:Vim
+WaitUntilReady	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def WaitUntilReady( timeout = 5 ):$/;"	f	language:Python
+WinIDForWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def WinIDForWindow( window ):$/;"	f	language:Python
+Windows	plugged/YouCompleteMe/README.md	/^### Windows$/;"	S	language:Markdown
+WindowsAndMacOnly	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^WindowsAndMacOnly = skipIf( not OnWindows() or not OnMac(),$/;"	v	language:Python
+Wrapper	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^    def Wrapper( *args, **kwargs ):$/;"	f	language:Python	function:YouCompleteMeInstance.Decorator	file:
+Wrapper	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^    def Wrapper( *args, **kwargs ):$/;"	f	language:Python	function:ExpectedFailure.decorator	file:
+WriteToPreviewWindow	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def WriteToPreviewWindow( message ):$/;"	f	language:Python
+WriteToPreviewWindow_JumpFail_MultiLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def WriteToPreviewWindow_JumpFail_MultiLine_test( vim_current, vim_command ):$/;"	f	language:Python
+WriteToPreviewWindow_JumpFail_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def WriteToPreviewWindow_JumpFail_test( vim_current, vim_command ):$/;"	f	language:Python
+WriteToPreviewWindow_MultiLine_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def WriteToPreviewWindow_MultiLine_test( vim_current ):$/;"	f	language:Python
+WriteToPreviewWindow_test	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def WriteToPreviewWindow_test( vim_current, vim_command ):$/;"	f	language:Python
+YCM-specific	plugged/YouCompleteMe/test/README.md	/^## YCM-specific$/;"	s	language:Markdown
+YCMTest	plugged/YouCompleteMe/test/vimrc	/^augroup YCMTest$/;"	a	language:Vim
+YCM_VAR_PREFIX	plugged/YouCompleteMe/python/ycm/base.py	/^YCM_VAR_PREFIX = 'ycm_'$/;"	v	language:Python
+YcmdKeepalive	plugged/YouCompleteMe/python/ycm/client/ycmd_keepalive.py	/^class YcmdKeepalive( object ):$/;"	c	language:Python
+YouCompleteMe	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^class YouCompleteMe( object ):$/;"	c	language:Python
+YouCompleteMe: a code-completion engine for Vim	plugged/YouCompleteMe/README.md	/^YouCompleteMe: a code-completion engine for Vim$/;"	c	language:Markdown
+YouCompleteMeInstance	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def YouCompleteMeInstance( custom_options = {} ):$/;"	f	language:Python
+YouCompleteMe_AsyncDiagnosticUpdate_PerFile_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_AsyncDiagnosticUpdate_PerFile_test( ycm,$/;"	f	language:Python
+YouCompleteMe_AsyncDiagnosticUpdate_SingleFile_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_AsyncDiagnosticUpdate_SingleFile_test( ycm,$/;"	f	language:Python
+YouCompleteMe_AsyncDiagnosticUpdate_UserDisabled_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_AsyncDiagnosticUpdate_UserDisabled_test( ycm,$/;"	f	language:Python
+YouCompleteMe_DebugInfo_ServerNotRunning_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_DebugInfo_ServerNotRunning_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_DebugInfo_ServerRunning_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_DebugInfo_ServerRunning_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_GetDefinedSubcommands_ErrorFromServer_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_GetDefinedSubcommands_ErrorFromServer_test( ycm,$/;"	f	language:Python
+YouCompleteMe_GetDefinedSubcommands_ListFromServer_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_GetDefinedSubcommands_ListFromServer_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_InvalidPythonInterpreterPath_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_InvalidPythonInterpreterPath_test( post_vim_message ):$/;"	f	language:Python
+YouCompleteMe_NoPythonInterpreterFound_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NoPythonInterpreterFound_test( post_vim_message, *args ):$/;"	f	language:Python
+YouCompleteMe_NotifyUserIfServerCrashed_MissingCore_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NotifyUserIfServerCrashed_MissingCore_test():$/;"	f	language:Python
+YouCompleteMe_NotifyUserIfServerCrashed_OutdatedCore_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NotifyUserIfServerCrashed_OutdatedCore_test():$/;"	f	language:Python
+YouCompleteMe_NotifyUserIfServerCrashed_Python2Core_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NotifyUserIfServerCrashed_Python2Core_test():$/;"	f	language:Python
+YouCompleteMe_NotifyUserIfServerCrashed_Python3Core_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NotifyUserIfServerCrashed_Python3Core_test():$/;"	f	language:Python
+YouCompleteMe_NotifyUserIfServerCrashed_UnexpectedCore_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NotifyUserIfServerCrashed_UnexpectedCore_test():$/;"	f	language:Python
+YouCompleteMe_NotifyUserIfServerCrashed_UnexpectedExitCode_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_NotifyUserIfServerCrashed_UnexpectedExitCode_test():$/;"	f	language:Python
+YouCompleteMe_OnCompleteDone_CompletionRequest_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnCompleteDone_CompletionRequest_test( ycm,$/;"	f	language:Python
+YouCompleteMe_OnCompleteDone_NoCompletionRequest_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnCompleteDone_NoCompletionRequest_test( ycm,$/;"	f	language:Python
+YouCompleteMe_OnPeriodicTick_DontRetry_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnPeriodicTick_DontRetry_test( ycm,$/;"	f	language:Python
+YouCompleteMe_OnPeriodicTick_Exception_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnPeriodicTick_Exception_test( ycm,$/;"	f	language:Python
+YouCompleteMe_OnPeriodicTick_ServerNotReady_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnPeriodicTick_ServerNotReady_test( ycm, *args ):$/;"	f	language:Python
+YouCompleteMe_OnPeriodicTick_ServerNotRunning_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnPeriodicTick_ServerNotRunning_test( ycm, *args ):$/;"	f	language:Python
+YouCompleteMe_OnPeriodicTick_ValidResponse_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnPeriodicTick_ValidResponse_test( ycm,$/;"	f	language:Python
+YouCompleteMe_OnVimLeave_KeepClientLogfile_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnVimLeave_KeepClientLogfile_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_OnVimLeave_RemoveClientLogfileByDefault_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_OnVimLeave_RemoveClientLogfileByDefault_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_ShouldResendFileParseRequest_NoParseRequest_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShouldResendFileParseRequest_NoParseRequest_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_ShowDetailedDiagnostic_Exception_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShowDetailedDiagnostic_Exception_test($/;"	f	language:Python
+YouCompleteMe_ShowDetailedDiagnostic_MessageFromServer_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShowDetailedDiagnostic_MessageFromServer_test($/;"	f	language:Python
+YouCompleteMe_ShowDiagnostics_DiagnosticsFound_DoNotOpenLocationList_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShowDiagnostics_DiagnosticsFound_DoNotOpenLocationList_test($/;"	f	language:Python
+YouCompleteMe_ShowDiagnostics_DiagnosticsFound_OpenLocationList_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShowDiagnostics_DiagnosticsFound_OpenLocationList_test($/;"	f	language:Python
+YouCompleteMe_ShowDiagnostics_FiletypeNotSupported_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShowDiagnostics_FiletypeNotSupported_test( ycm,$/;"	f	language:Python
+YouCompleteMe_ShowDiagnostics_NoDiagnosticsDetected_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ShowDiagnostics_NoDiagnosticsDetected_test($/;"	f	language:Python
+YouCompleteMe_ToggleLogs_WithParameters_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ToggleLogs_WithParameters_test( ycm,$/;"	f	language:Python
+YouCompleteMe_ToggleLogs_WithoutParameters_NoSelection_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ToggleLogs_WithoutParameters_NoSelection_test($/;"	f	language:Python
+YouCompleteMe_ToggleLogs_WithoutParameters_SelectLogfileAlreadyOpen_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ToggleLogs_WithoutParameters_SelectLogfileAlreadyOpen_test($/;"	f	language:Python
+YouCompleteMe_ToggleLogs_WithoutParameters_SelectLogfileNotAlreadyOpen_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_ToggleLogs_WithoutParameters_SelectLogfileNotAlreadyOpen_test($/;"	f	language:Python
+YouCompleteMe_UpdateDiagnosticInterface	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_UpdateDiagnosticInterface($/;"	f	language:Python
+YouCompleteMe_UpdateDiagnosticInterface_NewVim_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_UpdateDiagnosticInterface_NewVim_test():$/;"	f	language:Python
+YouCompleteMe_UpdateDiagnosticInterface_OldVim_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_UpdateDiagnosticInterface_OldVim_test():$/;"	f	language:Python
+YouCompleteMe_UpdateMatches_ClearDiagnosticMatchesInNewBuffer_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_UpdateMatches_ClearDiagnosticMatchesInNewBuffer_test( ycm ):$/;"	f	language:Python
+YouCompleteMe_YcmCoreNotImported_test	plugged/YouCompleteMe/python/ycm/tests/youcompleteme_test.py	/^def YouCompleteMe_YcmCoreNotImported_test( ycm ):$/;"	f	language:Python
+_AddExtraConfDataIfNeeded	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _AddExtraConfDataIfNeeded( self, extra_data ):$/;"	m	language:Python	class:YouCompleteMe
+_AddSyntaxDataIfNeeded	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _AddSyntaxDataIfNeeded( self, extra_data ):$/;"	m	language:Python	class:YouCompleteMe
+_AddTagsFilesIfNeeded	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _AddTagsFilesIfNeeded( self, extra_data ):$/;"	m	language:Python	class:YouCompleteMe
+_AddUltiSnipsDataIfNeeded	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _AddUltiSnipsDataIfNeeded( self, extra_data ):$/;"	m	language:Python	class:YouCompleteMe
+_ApplyDiagnosticFilter	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _ApplyDiagnosticFilter( self, diags ):$/;"	m	language:Python	class:DiagnosticInterface
+_BasicResponseTest	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^    def _BasicResponseTest( command, response ):$/;"	f	language:Python	member:Response_Detection_test.BasicResponse_test	file:
+_BuildChunk	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def _BuildChunk( start_line,$/;"	f	language:Python
+_BuildLocations	plugged/YouCompleteMe/python/ycm/tests/vimsupport_test.py	/^def _BuildLocations( start_line, start_column, end_line, end_column ):$/;"	f	language:Python
+_BuildQfListItem	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^def _BuildQfListItem( goto_data_item ):$/;"	f	language:Python
+_BuildUri	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def _BuildUri( handler ):$/;"	f	language:Python
+_CONNECT_TIMEOUT_SEC	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^_CONNECT_TIMEOUT_SEC = 0.01$/;"	v	language:Python
+_ChangedTick	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def _ChangedTick( self ):$/;"	m	language:Python	class:Buffer
+_Check	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^  def _Check( self, completion_id, completion_data, expected_vim_data ):$/;"	m	language:Python	class:ConvertCompletionResponseToVimDatas_test
+_CheckGoToList	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def _CheckGoToList( self,$/;"	m	language:Python	class:GoToResponse_QuickFix_test
+_Check_FileReadyToParse_Diagnostic_Clean	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def _Check_FileReadyToParse_Diagnostic_Clean( ycm ):$/;"	f	language:Python
+_Check_FileReadyToParse_Diagnostic_Error	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def _Check_FileReadyToParse_Diagnostic_Error( ycm ):$/;"	f	language:Python
+_Check_FileReadyToParse_Diagnostic_Warning	plugged/YouCompleteMe/python/ycm/tests/event_notification_test.py	/^def _Check_FileReadyToParse_Diagnostic_Warning( ycm ):$/;"	f	language:Python
+_CleanLogfile	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _CleanLogfile( self ):$/;"	m	language:Python	class:YouCompleteMe
+_CloseLogfile	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _CloseLogfile( self, logfile ):$/;"	m	language:Python	class:YouCompleteMe
+_CompileFilters	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^def _CompileFilters( config ):$/;"	f	language:Python
+_ConnectGroupChildren	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _ConnectGroupChildren( group_name_to_group ):$/;"	f	language:Python
+_ConvertCompletionDataToVimData	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^def _ConvertCompletionDataToVimData( completion_identifier, completion_data ):$/;"	f	language:Python
+_ConvertCompletionDatasToVimDatas	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^def _ConvertCompletionDatasToVimDatas( response_data ):$/;"	f	language:Python
+_ConvertDiagListToDict	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _ConvertDiagListToDict( self ):$/;"	m	language:Python	class:DiagnosticInterface
+_ConvertDiagnosticToMatchPatterns	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^def _ConvertDiagnosticToMatchPatterns( diagnostic ):$/;"	f	language:Python
+_CreateFilterForTypes	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def _CreateFilterForTypes( opts, types ):$/;"	f	language:Python
+_CreateInitialGroupMap	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _CreateInitialGroupMap():$/;"	f	language:Python
+_DiagnosticIsError	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^_DiagnosticIsError = CompileLevel( 'error' )$/;"	v	language:Python
+_DiagnosticIsWarning	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^_DiagnosticIsWarning = CompileLevel( 'warning' )$/;"	v	language:Python
+_DiagnosticsCount	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _DiagnosticsCount( self, predicate ):$/;"	m	language:Python	class:DiagnosticInterface
+_EchoDiagnostic	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _EchoDiagnostic( self ):$/;"	m	language:Python	class:DiagnosticInterface
+_EchoDiagnosticForLine	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _EchoDiagnosticForLine( self, line_num ):$/;"	m	language:Python	class:DiagnosticInterface
+_EndsWithPython	plugged/YouCompleteMe/python/ycm/paths.py	/^def _EndsWithPython( path ):$/;"	f	language:Python
+_EnsureBackwardsCompatibility	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^def _EnsureBackwardsCompatibility( arguments ):$/;"	f	language:Python
+_ExtraHeaders	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def _ExtraHeaders( method, request_uri, request_body = None ):$/;"	m	language:Python	class:BaseRequest
+_ExtractKeywordsFromGroup	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _ExtractKeywordsFromGroup( group ):$/;"	f	language:Python
+_ExtractKeywordsFromLine	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _ExtractKeywordsFromLine( line ):$/;"	f	language:Python
+_FilterToMatchingCompletions	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^def _FilterToMatchingCompletions( completed_item, completions ):$/;"	f	language:Python
+_FormatCompleterDebugInfo	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^def _FormatCompleterDebugInfo( completer ):$/;"	f	language:Python
+_FormatYcmdDebugInfo	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^def _FormatYcmdDebugInfo( ycmd ):$/;"	f	language:Python
+_GetAllDescendentats	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _GetAllDescendentats( root_group ):$/;"	f	language:Python
+_GetCompletionInfoField	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^def _GetCompletionInfoField( completion_data ):$/;"	f	language:Python
+_GetCompletionsUserMayHaveCompleted	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def _GetCompletionsUserMayHaveCompleted( self ):$/;"	m	language:Python	class:CompletionRequest
+_GetFixItCompletion	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^def _GetFixItCompletion( completion ):$/;"	f	language:Python
+_GetNumNonVisibleFiles	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def _GetNumNonVisibleFiles( file_list ):$/;"	f	language:Python
+_GetRequiredNamespaceImport	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^def _GetRequiredNamespaceImport( completion ):$/;"	f	language:Python
+_HEADERS	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^_HEADERS = { 'content-type': 'application\/json' }$/;"	v	language:Python
+_HMAC_HEADER	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^_HMAC_HEADER = 'x-ycm-hmac'$/;"	v	language:Python
+_HandleBasicResponse	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def _HandleBasicResponse( self ):$/;"	m	language:Python	class:CommandRequest
+_HandleDetailedInfoResponse	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def _HandleDetailedInfoResponse( self ):$/;"	m	language:Python	class:CommandRequest
+_HandleFixitResponse	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def _HandleFixitResponse( self ):$/;"	m	language:Python	class:CommandRequest
+_HandleGotoResponse	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def _HandleGotoResponse( self, modifiers ):$/;"	m	language:Python	class:CommandRequest
+_HandleMessageResponse	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def _HandleMessageResponse( self ):$/;"	m	language:Python	class:CommandRequest
+_HandlePollResponse	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^def _HandlePollResponse( response, diagnostics_handler ):$/;"	f	language:Python
+_IgnoreExtraConfFile	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def _IgnoreExtraConfFile( filepath ):$/;"	f	language:Python
+_IsReady	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def _IsReady():$/;"	f	language:Python
+_JavaFilter	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def _JavaFilter( config ):$/;"	f	language:Python
+_JsonFromFuture	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def _JsonFromFuture( future ):$/;"	f	language:Python
+_KeywordsFromSyntaxListOutput	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _KeywordsFromSyntaxListOutput( syntax_output ):$/;"	f	language:Python
+_ListOf	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^def _ListOf( config_entry ):$/;"	f	language:Python
+_LoadExtraConfFile	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def _LoadExtraConfFile( filepath ):$/;"	f	language:Python
+_MakeSignatureHelpBuffer	plugged/YouCompleteMe/python/ycm/signature_help.py	/^def _MakeSignatureHelpBuffer( signature_info ):$/;"	f	language:Python
+_MasterDiagnosticFilter	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^class _MasterDiagnosticFilter( object ):$/;"	c	language:Python
+_MockGetBufferNumber	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockGetBufferNumber( buffer_filename ):$/;"	f	language:Python
+_MockGetBufferVariable	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockGetBufferVariable( buffer_number, option ):$/;"	f	language:Python
+_MockGetBufferWindowNumber	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockGetBufferWindowNumber( buffer_number ):$/;"	f	language:Python
+_MockSignCommand	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockSignCommand( command ):$/;"	f	language:Python
+_MockVimBufferEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimBufferEval( value ):$/;"	f	language:Python
+_MockVimCommand	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimCommand( command ):$/;"	f	language:Python
+_MockVimEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimEval( value ):$/;"	f	language:Python
+_MockVimFunctionsEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimFunctionsEval( value ):$/;"	f	language:Python
+_MockVimMatchEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimMatchEval( value ):$/;"	f	language:Python
+_MockVimOptionsEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimOptionsEval( value ):$/;"	f	language:Python
+_MockVimVersionEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimVersionEval( value ):$/;"	f	language:Python
+_MockVimWindowEval	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockVimWindowEval( value ):$/;"	f	language:Python
+_MockWipeoutBuffer	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^def _MockWipeoutBuffer( buffer_number ):$/;"	f	language:Python
+_NormalizeDiagnostic	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^def _NormalizeDiagnostic( diag ):$/;"	f	language:Python
+_OnCompleteDone_Csharp	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def _OnCompleteDone_Csharp( self ):$/;"	m	language:Python	class:CompletionRequest
+_OnCompleteDone_FixIt	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def _OnCompleteDone_FixIt( self ):$/;"	m	language:Python	class:CompletionRequest
+_OpenFileInSplitIfNeeded	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def _OpenFileInSplitIfNeeded( filepath ):$/;"	f	language:Python
+_OpenLogfile	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _OpenLogfile( self, logfile ):$/;"	m	language:Python	class:YouCompleteMe
+_PathToPythonUsedDuringBuild	plugged/YouCompleteMe/python/ycm/paths.py	/^def _PathToPythonUsedDuringBuild():$/;"	f	language:Python
+_PopulateLocationListWithLatestDiagnostics	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _PopulateLocationListWithLatestDiagnostics( self ):$/;"	m	language:Python	class:YouCompleteMe
+_READ_TIMEOUT_SEC	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^_READ_TIMEOUT_SEC = 30$/;"	v	language:Python
+_RawResponse	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def _RawResponse( self ):$/;"	m	language:Python	class:CompletionRequest
+_SendRequest	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^  def _SendRequest( self ):$/;"	m	language:Python	class:MessagesPoll
+_SetLogLevel	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _SetLogLevel( self ):$/;"	m	language:Python	class:YouCompleteMe
+_SetUpCompleteDone	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def _SetUpCompleteDone( completions ):$/;"	f	language:Python
+_SetUpLoadedBuffer	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def _SetUpLoadedBuffer( command, filename, fix, position, watch ):$/;"	f	language:Python
+_SetUpLogging	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _SetUpLogging( self ):$/;"	m	language:Python	class:YouCompleteMe
+_SetUpServer	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _SetUpServer( self ):$/;"	m	language:Python	class:YouCompleteMe
+_SetupForCsharpCompletionDone	plugged/YouCompleteMe/python/ycm/tests/postcomplete_test.py	/^def _SetupForCsharpCompletionDone( completions ):$/;"	f	language:Python
+_ShutdownServer	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def _ShutdownServer( self ):$/;"	m	language:Python	class:YouCompleteMe
+_SortChunksByFile	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def _SortChunksByFile( chunks ):$/;"	f	language:Python
+_SyntaxGroupsFromOutput	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^def _SyntaxGroupsFromOutput( syntax_output ):$/;"	f	language:Python
+_TalkToHandlerAsync	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def _TalkToHandlerAsync( data,$/;"	m	language:Python	class:BaseRequest
+_ThreadMain	plugged/YouCompleteMe/python/ycm/client/ycmd_keepalive.py	/^  def _ThreadMain( self ):$/;"	m	language:Python	class:YcmdKeepalive
+_ToUtf8Json	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def _ToUtf8Json( data ):$/;"	f	language:Python
+_UpdateLocationLists	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _UpdateLocationLists( self ):$/;"	m	language:Python	class:DiagnosticInterface
+_UpdateSigns	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def _UpdateSigns( self ):$/;"	m	language:Python	class:DiagnosticInterface
+_ValidateResponseObject	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^def _ValidateResponseObject( response ):$/;"	f	language:Python
+_WorkItem	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^class _WorkItem( object ):$/;"	c	language:Python
+__eq__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __eq__( self, other ):$/;"	m	language:Python	class:VimMatch
+__eq__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __eq__( self, other ):$/;"	m	language:Python	class:VimSign
+__eq__	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^  def __eq__( self, other ):$/;"	m	language:Python	class:DiagnosticMatch
+__eq__	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^  def __eq__( self, other ):$/;"	m	language:Python	class:DiagnosticSign
+__getitem__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __getitem__( self, index ):$/;"	m	language:Python	class:VimBuffer
+__getitem__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __getitem__( self, key ):$/;"	m	language:Python	class:VimMatch
+__getitem__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __getitem__( self, key ):$/;"	m	language:Python	class:VimSign
+__getitem__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __getitem__( self, number ):$/;"	m	language:Python	class:VimBuffers
+__getitem__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __getitem__( self, number ):$/;"	m	language:Python	class:VimWindows
+__init__	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def __init__( self, bufnr, user_options, filetypes ):$/;"	m	language:Python	class:Buffer
+__init__	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def __init__( self, user_options ):$/;"	m	language:Python	class:BufferDict
+__init__	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  def __init__( self ):$/;"	m	language:Python	class:BaseRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/command_request.py	/^  def __init__( self,$/;"	m	language:Python	class:CommandRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/completer_available_request.py	/^  def __init__( self, filetypes ):$/;"	m	language:Python	class:CompleterAvailableRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^  def __init__( self, request_data ):$/;"	m	language:Python	class:CompletionRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/debug_info_request.py	/^  def __init__( self, extra_data = None ):$/;"	m	language:Python	class:DebugInfoRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/event_notification.py	/^  def __init__( self, event_name, buffer_number = None, extra_data = None ):$/;"	m	language:Python	class:EventNotification
+__init__	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^  def __init__( self, buff ):$/;"	m	language:Python	class:MessagesPoll
+__init__	plugged/YouCompleteMe/python/ycm/client/omni_completion_request.py	/^  def __init__( self, omni_completer, request_data ):$/;"	m	language:Python	class:OmniCompletionRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/shutdown_request.py	/^  def __init__( self ):$/;"	m	language:Python	class:ShutdownRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def __init__( self, filetype ):$/;"	m	language:Python	class:SignatureHelpAvailableRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def __init__( self, request_data ):$/;"	m	language:Python	class:SignatureHelpRequest
+__init__	plugged/YouCompleteMe/python/ycm/client/ycmd_keepalive.py	/^  def __init__( self, ping_interval_seconds = 60 * 10 ):$/;"	m	language:Python	class:YcmdKeepalive
+__init__	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def __init__( self, all_filters ):$/;"	m	language:Python	class:_MasterDiagnosticFilter
+__init__	plugged/YouCompleteMe/python/ycm/diagnostic_filter.py	/^  def __init__( self, config_or_filters ):$/;"	m	language:Python	class:DiagnosticFilter
+__init__	plugged/YouCompleteMe/python/ycm/diagnostic_interface.py	/^  def __init__( self, bufnr, user_options ):$/;"	m	language:Python	class:DiagnosticInterface
+__init__	plugged/YouCompleteMe/python/ycm/omni_completer.py	/^  def __init__( self, user_options ):$/;"	m	language:Python	class:OmniCompleter
+__init__	plugged/YouCompleteMe/python/ycm/signature_help.py	/^  def __init__( self,$/;"	m	language:Python	class:SignatureHelpState
+__init__	plugged/YouCompleteMe/python/ycm/syntax_parse.py	/^  def __init__( self, name, lines = None ):$/;"	m	language:Python	class:SyntaxGroup
+__init__	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^  def __init__( self, done, response = None, exception = None ):$/;"	m	language:Python	class:FakeFuture
+__init__	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^  def __init__( self, response, exception ):$/;"	m	language:Python	class:FakeResponse
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, buffers ):$/;"	m	language:Python	class:VimBuffers
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, buffers, cursor ):$/;"	m	language:Python	class:VimWindows
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, code ):$/;"	m	language:Python	class:VimError
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, current_window ):$/;"	m	language:Python	class:VimCurrent
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, group, pattern ):$/;"	m	language:Python	class:VimMatch
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, name,$/;"	m	language:Python	class:VimBuffer
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, number, buffer_object, cursor = None ):$/;"	m	language:Python	class:VimWindow
+__init__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __init__( self, sign_id, line, name, bufnr ):$/;"	m	language:Python	class:VimSign
+__init__	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  def __init__( self, future, fn, args, kwargs ):$/;"	m	language:Python	class:_WorkItem
+__init__	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  def __init__( self, max_workers ):$/;"	m	language:Python	class:UnsafeThreadPoolExecutor
+__init__	plugged/YouCompleteMe/python/ycm/youcompleteme.py	/^  def __init__( self ):$/;"	m	language:Python	class:YouCompleteMe
+__iter__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __iter__( self ):$/;"	m	language:Python	class:VimBuffers
+__iter__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __iter__( self ):$/;"	m	language:Python	class:VimWindows
+__len__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __len__( self ):$/;"	m	language:Python	class:VimBuffer
+__missing__	plugged/YouCompleteMe/python/ycm/buffer.py	/^  def __missing__( self, key ):$/;"	m	language:Python	class:BufferDict
+__missing__	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^  def __missing__( self, filetype ):$/;"	m	language:Python	class:SigHelpAvailableByFileType
+__repr__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __repr__( self ):$/;"	m	language:Python	class:VimBuffer
+__repr__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __repr__( self ):$/;"	m	language:Python	class:VimMatch
+__repr__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __repr__( self ):$/;"	m	language:Python	class:VimSign
+__repr__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __repr__( self ):$/;"	m	language:Python	class:VimWindow
+__setitem__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __setitem__( self, key, value ):$/;"	m	language:Python	class:VimBuffer
+__str__	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def __str__( self ):$/;"	m	language:Python	class:VimError
+_adjust_thread_count	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  def _adjust_thread_count( self ):$/;"	m	language:Python	class:UnsafeThreadPoolExecutor
+_assert_accept_equals	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def _assert_accept_equals( filter, text_or_obj, expected ):$/;"	f	language:Python
+_assert_accepts	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def _assert_accepts( filter, text ):$/;"	f	language:Python
+_assert_rejects	plugged/YouCompleteMe/python/ycm/tests/diagnostic_filter_test.py	/^def _assert_rejects( filter, text ):$/;"	f	language:Python
+_logger	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^_logger = logging.getLogger( __name__ )$/;"	v	language:Python
+_logger	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^_logger = logging.getLogger( __name__ )$/;"	v	language:Python
+_logger	plugged/YouCompleteMe/python/ycm/client/messages_request.py	/^_logger = logging.getLogger( __name__ )$/;"	v	language:Python
+_logger	plugged/YouCompleteMe/python/ycm/client/signature_help_request.py	/^_logger = logging.getLogger( __name__ )$/;"	v	language:Python
+_worker	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^def _worker( executor_reference, work_queue ):$/;"	f	language:Python
+`:TagsGenerate`	plugged/vim-tags/README.md	/^### `:TagsGenerate`$/;"	S	language:Markdown
+assert_has_exact_calls	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def assert_has_exact_calls( self, calls, any_order = False ):$/;"	m	language:Python	class:ExtendedMock
+clean	plugged/YouCompleteMe/test/Makefile	/^clean:$/;"	t	language:Make
+command_exists	plugged/YouCompleteMe/install.sh	/^command_exists() {$/;"	f	language:Sh
+decorator	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def decorator( test ):$/;"	f	language:Python	function:ExpectedFailure	file:
+done	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^  def done( self ):$/;"	m	language:Python	class:FakeFuture
+g:	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^    let g:[ 'ycm_' . key ] = s:default_options[ key ]$/;"	v	language:Vim
+g:loaded_vim_tags	plugged/vim-tags/plugin/tags.vim	/^let g:loaded_vim_tags = 1$/;"	v	language:Vim
+g:loaded_youcompleteme	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:loaded_youcompleteme = 1$/;"	v	language:Vim
+g:testname	plugged/YouCompleteMe/test/lib/run_test.vim	/^let g:testname = expand('%')$/;"	v	language:Vim
+g:testpath	plugged/YouCompleteMe/test/lib/run_test.vim	/^let g:testpath = expand('%:p')$/;"	v	language:Vim
+g:vim_tags_auto_generate	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_auto_generate = 1$/;"	v	language:Vim
+g:vim_tags_cache_dir	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_cache_dir = expand($HOME)$/;"	v	language:Vim
+g:vim_tags_ctags_binary	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_ctags_binary = "ctags"$/;"	v	language:Vim
+g:vim_tags_directories	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_directories = [".git", ".hg", ".svn", ".bzr", "_darcs", "CVS"]$/;"	v	language:Vim
+g:vim_tags_extension	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_extension = '.tags'$/;"	v	language:Vim
+g:vim_tags_gems_tags_command	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_gems_tags_command = "{CTAGS} -R {OPTIONS} `bundle show --paths` 2>\/dev\/null"$/;"	v	language:Vim
+g:vim_tags_gems_tags_command	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_gems_tags_command = substitute(g:vim_tags_gems_tags_command, "{OPTIONS}", '--fi/;"	v	language:Vim
+g:vim_tags_ignore_file_comment_pattern	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_ignore_file_comment_pattern = '^[#"]'$/;"	v	language:Vim
+g:vim_tags_ignore_files	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_ignore_files = ['.gitignore', '.svnignore', '.cvsignore']$/;"	v	language:Vim
+g:vim_tags_main_file	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_main_file = 'tags'$/;"	v	language:Vim
+g:vim_tags_project_tags_command	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_project_tags_command = "{CTAGS} -R {OPTIONS} {DIRECTORY} 2>\/dev\/null"$/;"	v	language:Vim
+g:vim_tags_project_tags_command	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_project_tags_command = substitute(g:vim_tags_project_tags_command, "{OPTIONS}",/;"	v	language:Vim
+g:vim_tags_use_language_field	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_use_language_field = 1$/;"	v	language:Vim
+g:vim_tags_use_vim_dispatch	plugged/vim-tags/plugin/tags.vim	/^  let g:vim_tags_use_vim_dispatch = 0$/;"	v	language:Vim
+g:ycm_add_preview_to_completeopt	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_add_preview_to_completeopt =$/;"	v	language:Vim
+g:ycm_always_populate_location_list	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_always_populate_location_list =$/;"	v	language:Vim
+g:ycm_always_populate_location_list	plugged/YouCompleteMe/test/diagnostics.test.vim	/^  let g:ycm_always_populate_location_list = 1$/;"	v	language:Vim
+g:ycm_auto_start_csharp_server	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_auto_start_csharp_server =$/;"	v	language:Vim
+g:ycm_auto_stop_csharp_server	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_auto_stop_csharp_server =$/;"	v	language:Vim
+g:ycm_auto_trigger	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_auto_trigger =$/;"	v	language:Vim
+g:ycm_auto_trigger	plugged/YouCompleteMe/test/completion.test.vim	/^  let g:ycm_auto_trigger = 1$/;"	v	language:Vim
+g:ycm_auto_trigger	plugged/YouCompleteMe/test/diagnostics.test.vim	/^  let g:ycm_auto_trigger = 1$/;"	v	language:Vim
+g:ycm_auto_trigger	plugged/YouCompleteMe/test/fixit.test.vim	/^  let g:ycm_auto_trigger = 1$/;"	v	language:Vim
+g:ycm_auto_trigger	plugged/YouCompleteMe/test/signature_help.test.vim	/^  let g:ycm_auto_trigger = 1$/;"	v	language:Vim
+g:ycm_autoclose_preview_window_after_completion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_autoclose_preview_window_after_completion =$/;"	v	language:Vim
+g:ycm_autoclose_preview_window_after_insertion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_autoclose_preview_window_after_insertion =$/;"	v	language:Vim
+g:ycm_cache_omnifunc	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_cache_omnifunc =$/;"	v	language:Vim
+g:ycm_clangd_args	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_clangd_args =$/;"	v	language:Vim
+g:ycm_clangd_binary_path	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_clangd_binary_path =$/;"	v	language:Vim
+g:ycm_clangd_uses_ycmd_caching	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_clangd_uses_ycmd_caching =$/;"	v	language:Vim
+g:ycm_collect_identifiers_from_comments_and_strings	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_collect_identifiers_from_comments_and_strings =$/;"	v	language:Vim
+g:ycm_collect_identifiers_from_tags_files	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_collect_identifiers_from_tags_files =$/;"	v	language:Vim
+g:ycm_complete_in_comments	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_complete_in_comments =$/;"	v	language:Vim
+g:ycm_complete_in_strings	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_complete_in_strings =$/;"	v	language:Vim
+g:ycm_confirm_extra_conf	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_confirm_extra_conf =$/;"	v	language:Vim
+g:ycm_confirm_extra_conf	plugged/YouCompleteMe/test/completion.test.vim	/^  let g:ycm_confirm_extra_conf = 0$/;"	v	language:Vim
+g:ycm_confirm_extra_conf	plugged/YouCompleteMe/test/diagnostics.test.vim	/^  let g:ycm_confirm_extra_conf = 0$/;"	v	language:Vim
+g:ycm_confirm_extra_conf	plugged/YouCompleteMe/test/fixit.test.vim	/^  let g:ycm_confirm_extra_conf = 0$/;"	v	language:Vim
+g:ycm_confirm_extra_conf	plugged/YouCompleteMe/test/signature_help.test.vim	/^  let g:ycm_confirm_extra_conf = 0$/;"	v	language:Vim
+g:ycm_confirm_extra_conf	plugged/YouCompleteMe/test/vimrc	/^let g:ycm_confirm_extra_conf=0$/;"	v	language:Vim
+g:ycm_csharp_server_port	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_csharp_server_port =$/;"	v	language:Vim
+g:ycm_disable_for_files_larger_than_kb	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_disable_for_files_larger_than_kb =$/;"	v	language:Vim
+g:ycm_echo_current_diagnostic	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_echo_current_diagnostic =$/;"	v	language:Vim
+g:ycm_enable_diagnostic_highlighting	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_enable_diagnostic_highlighting =$/;"	v	language:Vim
+g:ycm_enable_diagnostic_signs	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_enable_diagnostic_signs =$/;"	v	language:Vim
+g:ycm_error_symbol	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_error_symbol =$/;"	v	language:Vim
+g:ycm_extra_conf_globlist	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_extra_conf_globlist =$/;"	v	language:Vim
+g:ycm_extra_conf_vim_data	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_extra_conf_vim_data =$/;"	v	language:Vim
+g:ycm_filepath_blacklist	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_filepath_blacklist =$/;"	v	language:Vim
+g:ycm_filepath_completion_use_working_dir	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_filepath_completion_use_working_dir =$/;"	v	language:Vim
+g:ycm_filetype_blacklist	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_filetype_blacklist =$/;"	v	language:Vim
+g:ycm_filetype_specific_completion_to_disable	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_filetype_specific_completion_to_disable =$/;"	v	language:Vim
+g:ycm_filetype_whitelist	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_filetype_whitelist =$/;"	v	language:Vim
+g:ycm_filter_diagnostics	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_filter_diagnostics =$/;"	v	language:Vim
+g:ycm_global_ycm_extra_conf	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_global_ycm_extra_conf =$/;"	v	language:Vim
+g:ycm_goto_buffer_command	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_goto_buffer_command =$/;"	v	language:Vim
+g:ycm_java_jdtls_extension_path	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_java_jdtls_extension_path =$/;"	v	language:Vim
+g:ycm_java_jdtls_use_clean_workspace	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_java_jdtls_use_clean_workspace =$/;"	v	language:Vim
+g:ycm_java_jdtls_workspace_root_path	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_java_jdtls_workspace_root_path =$/;"	v	language:Vim
+g:ycm_keep_logfiles	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_keep_logfiles =$/;"	v	language:Vim
+g:ycm_keep_logfiles	plugged/YouCompleteMe/test/completion.test.vim	/^  let g:ycm_keep_logfiles = 1$/;"	v	language:Vim
+g:ycm_keep_logfiles	plugged/YouCompleteMe/test/diagnostics.test.vim	/^  let g:ycm_keep_logfiles = 1$/;"	v	language:Vim
+g:ycm_keep_logfiles	plugged/YouCompleteMe/test/fixit.test.vim	/^  let g:ycm_keep_logfiles = 1$/;"	v	language:Vim
+g:ycm_keep_logfiles	plugged/YouCompleteMe/test/signature_help.test.vim	/^  let g:ycm_keep_logfiles = 1$/;"	v	language:Vim
+g:ycm_key_detailed_diagnostics	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_key_detailed_diagnostics =$/;"	v	language:Vim
+g:ycm_key_invoke_completion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_key_invoke_completion =$/;"	v	language:Vim
+g:ycm_key_list_previous_completion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_key_list_previous_completion =$/;"	v	language:Vim
+g:ycm_key_list_select_completion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_key_list_select_completion =$/;"	v	language:Vim
+g:ycm_key_list_stop_completion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_key_list_stop_completion =$/;"	v	language:Vim
+g:ycm_log_level	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_log_level =$/;"	v	language:Vim
+g:ycm_log_level	plugged/YouCompleteMe/test/completion.test.vim	/^  let g:ycm_log_level = 'DEBUG'$/;"	v	language:Vim
+g:ycm_log_level	plugged/YouCompleteMe/test/diagnostics.test.vim	/^  let g:ycm_log_level = 'DEBUG'$/;"	v	language:Vim
+g:ycm_log_level	plugged/YouCompleteMe/test/fixit.test.vim	/^  let g:ycm_log_level = 'DEBUG'$/;"	v	language:Vim
+g:ycm_log_level	plugged/YouCompleteMe/test/signature_help.test.vim	/^  let g:ycm_log_level = 'DEBUG'$/;"	v	language:Vim
+g:ycm_max_diagnostics_to_display	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_max_diagnostics_to_display =$/;"	v	language:Vim
+g:ycm_max_num_candidates	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_max_num_candidates =$/;"	v	language:Vim
+g:ycm_max_num_identifier_candidates	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_max_num_identifier_candidates =$/;"	v	language:Vim
+g:ycm_min_identifier_candidate_chars	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_min_identifier_candidate_chars =$/;"	v	language:Vim
+g:ycm_min_num_of_chars_for_completion	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_min_num_of_chars_for_completion =$/;"	v	language:Vim
+g:ycm_open_loclist_on_ycm_diags	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_open_loclist_on_ycm_diags =$/;"	v	language:Vim
+g:ycm_python_binary_path	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_python_binary_path =$/;"	v	language:Vim
+g:ycm_seed_identifiers_with_syntax	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_seed_identifiers_with_syntax =$/;"	v	language:Vim
+g:ycm_semantic_triggers	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_semantic_triggers =$/;"	v	language:Vim
+g:ycm_server_python_interpreter	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_server_python_interpreter =$/;"	v	language:Vim
+g:ycm_show_diagnostics_ui	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_show_diagnostics_ui =$/;"	v	language:Vim
+g:ycm_test_plugin_dir	plugged/YouCompleteMe/test/vimrc	/^let g:ycm_test_plugin_dir = expand( '<sfile>:p:h:h' )$/;"	v	language:Vim
+g:ycm_use_clangd	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_use_clangd =$/;"	v	language:Vim
+g:ycm_use_clangd	plugged/YouCompleteMe/test/completion.test.vim	/^  let g:ycm_use_clangd = 1$/;"	v	language:Vim
+g:ycm_use_clangd	plugged/YouCompleteMe/test/diagnostics.test.vim	/^  let g:ycm_use_clangd = 1$/;"	v	language:Vim
+g:ycm_use_clangd	plugged/YouCompleteMe/test/signature_help.test.vim	/^  let g:ycm_use_clangd = 1$/;"	v	language:Vim
+g:ycm_use_ultisnips_completer	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_use_ultisnips_completer =$/;"	v	language:Vim
+g:ycm_warning_symbol	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let g:ycm_warning_symbol =$/;"	v	language:Vim
+hmac_secret	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  hmac_secret = ''$/;"	v	language:Python	class:BaseRequest
+json	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^  def json( self ):$/;"	m	language:Python	class:FakeResponse
+macOS	plugged/YouCompleteMe/README.md	/^### macOS$/;"	S	language:Markdown
+main	plugged/YouCompleteMe/test/testdata/cpp/fixit.c	/^int main() {$/;"	f	language:C	typeref:typename:int
+mark	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def mark( self, name ):$/;"	m	language:Python	class:VimBuffer
+matcher	plugged/YouCompleteMe/python/ycm/client/completion_request.py	/^    def matcher( key ):$/;"	f	language:Python	function:_FilterToMatchingCompletions	file:
+memoize	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^def memoize( func ):$/;"	f	language:Python
+p	plugged/YouCompleteMe/run_tests.py	/^import os.path as p$/;"	I	language:Python
+pop	plugged/YouCompleteMe/python/ycm/tests/test_utils.py	/^  def pop( self, index ):$/;"	m	language:Python	class:VimBuffers
+python_path	plugged/YouCompleteMe/run_tests.py	/^python_path = [ p.join( DIR_OF_THIRD_PARTY, 'pythonfutures' ),$/;"	v	language:Python
+queue	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  import Queue as queue$/;"	I	language:Python
+raise_for_status	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^  def raise_for_status( self ):$/;"	m	language:Python	class:FakeResponse
+result	plugged/YouCompleteMe/python/ycm/tests/mock_utils.py	/^  def result( self ):$/;"	m	language:Python	class:FakeFuture
+run	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  def run( self ):$/;"	m	language:Python	class:_WorkItem
+s:TestFailed	plugged/YouCompleteMe/test/lib/run_test.vim	/^func s:TestFailed()$/;"	f	language:Vim
+s:WaitForCommon	plugged/YouCompleteMe/test/lib/plugin/shared.vim	/^func s:WaitForCommon(expr, assert, timeout)$/;"	f	language:Vim
+s:_CheckPopupPosition	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! s:_CheckPopupPosition( winid, pos )$/;"	f	language:Vim
+s:_CheckSigHelpAtPos	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! s:_CheckSigHelpAtPos( sh, cursor, pos )$/;"	f	language:Vim
+s:_ClearSigHelp	plugged/YouCompleteMe/test/signature_help.test.vim	/^function! s:_ClearSigHelp()$/;"	f	language:Vim
+s:_GetSigHelpWinID	plugged/YouCompleteMe/test/signature_help.test.vim	/^function s:_GetSigHelpWinID()$/;"	f	language:Vim
+s:add_tags_location	plugged/vim-tags/plugin/tags.vim	/^function s:add_tags_location(location)$/;"	f	language:Vim
+s:default_options	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^    let s:default_options = json_decode( join( readfile( s:option_file ) ) )$/;"	v	language:Vim
+s:default_options	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let s:default_options = {}$/;"	v	language:Vim
+s:dirty_locations	plugged/vim-tags/plugin/tags.vim	/^let s:dirty_locations = 0$/;"	v	language:Vim
+s:done	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:done = 0$/;"	v	language:Vim
+s:errors	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:errors = []$/;"	v	language:Vim
+s:execute_async_command	plugged/vim-tags/plugin/tags.vim	/^fun! s:execute_async_command(command)$/;"	f	language:Vim
+s:fail	plugged/YouCompleteMe/test/lib/run_test.vim	/^  let s:fail += 1$/;"	v	language:Vim
+s:fail	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:fail = 0$/;"	v	language:Vim
+s:find_project_root	plugged/vim-tags/plugin/tags.vim	/^function! s:find_project_root()$/;"	f	language:Vim
+s:flaky_errors_re	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:flaky_errors_re = '__does_not_match__'$/;"	v	language:Vim
+s:flaky_tests	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:flaky_tests = []$/;"	v	language:Vim
+s:generate_options	plugged/vim-tags/plugin/tags.vim	/^function! s:generate_options()$/;"	f	language:Vim
+s:generate_tags	plugged/vim-tags/plugin/tags.vim	/^fun! s:generate_tags(bang, redraw)$/;"	f	language:Vim
+s:load_tags_locations	plugged/vim-tags/plugin/tags.vim	/^function! s:load_tags_locations()$/;"	f	language:Vim
+s:locations	plugged/vim-tags/plugin/tags.vim	/^let s:locations = {}$/;"	v	language:Vim
+s:messages	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:messages = []$/;"	v	language:Vim
+s:option_file	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^  let s:option_file = s:script_folder_path .$/;"	v	language:Vim
+s:restore_cpo	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^function! s:restore_cpo()$/;"	f	language:Vim
+s:save_cpo	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^let s:save_cpo = &cpo$/;"	v	language:Vim
+s:save_tags_locations	plugged/vim-tags/plugin/tags.vim	/^function! s:save_tags_locations()$/;"	f	language:Vim
+s:script_folder_path	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^  let s:script_folder_path = expand( '<sfile>:p:h' )$/;"	v	language:Vim
+s:single_test_timeout	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:single_test_timeout = 60000$/;"	v	language:Vim
+s:skipped	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:skipped = []$/;"	v	language:Vim
+s:tests	plugged/YouCompleteMe/test/lib/run_test.vim	/^  let s:tests = filter(s:tests, 'v:val =~ argv(1)')$/;"	v	language:Vim
+s:tests	plugged/YouCompleteMe/test/lib/run_test.vim	/^let s:tests = split(substitute(@q, 'function \\(\\k*()\\)', '\\1', 'g'))$/;"	v	language:Vim
+s:timer_interval	plugged/YouCompleteMe/test/signature_help.test.vim	/^let s:timer_interval = 2000$/;"	v	language:Vim
+server_location	plugged/YouCompleteMe/python/ycm/client/base_request.py	/^  server_location = ''$/;"	v	language:Python	class:BaseRequest
+setUp	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def setUp( self ):$/;"	m	language:Python	class:GoToResponse_QuickFix_test
+setUpPackage	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def setUpPackage():$/;"	f	language:Python
+sh	plugged/YouCompleteMe/python/ycm/tests/signature_help_test.py	/^from ycm import signature_help as sh$/;"	x	language:Python
+shutdown	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  def shutdown( self, wait=True ):$/;"	m	language:Python	class:UnsafeThreadPoolExecutor
+submit	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^  def submit( self, fn, *args, **kwargs ):$/;"	m	language:Python	class:UnsafeThreadPoolExecutor
+tearDown	plugged/YouCompleteMe/python/ycm/tests/client/command_request_test.py	/^  def tearDown( self ):$/;"	m	language:Python	class:GoToResponse_QuickFix_test
+tearDownPackage	plugged/YouCompleteMe/python/ycm/tests/__init__.py	/^def tearDownPackage():$/;"	f	language:Python
+test	plugged/YouCompleteMe/test/Makefile	/^test:$/;"	t	language:Make
+vim_mock	plugged/YouCompleteMe/python/ycm/tests/base_test.py	/^vim_mock = MockVimModule()$/;"	v	language:Python
+vim_mock	plugged/YouCompleteMe/python/ycm/tests/client/completion_request_test.py	/^vim_mock = MockVimModule()$/;"	v	language:Python
+weakref_cb	plugged/YouCompleteMe/python/ycm/unsafe_thread_pool_executor.py	/^    def weakref_cb( _, q=self._work_queue ):$/;"	f	language:Python	member:UnsafeThreadPoolExecutor._adjust_thread_count	file:
+wrapper	plugged/YouCompleteMe/python/ycm/vimsupport.py	/^  def wrapper( *args, **kwargs ):$/;"	f	language:Python	function:memoize	file:
+youcompleteme#test#setup#CleanUp	plugged/YouCompleteMe/test/lib/autoload/youcompleteme/test/setup.vim	/^function! youcompleteme#test#setup#CleanUp() abort$/;"	f	language:Vim
+youcompleteme#test#setup#OpenFile	plugged/YouCompleteMe/test/lib/autoload/youcompleteme/test/setup.vim	/^function! youcompleteme#test#setup#OpenFile( f, kwargs ) abort$/;"	f	language:Vim
+youcompleteme#test#setup#SetUp	plugged/YouCompleteMe/test/lib/autoload/youcompleteme/test/setup.vim	/^function! youcompleteme#test#setup#SetUp() abort$/;"	f	language:Vim
+youcompletemeStart	plugged/YouCompleteMe/plugin/youcompleteme.vim	/^  augroup youcompletemeStart$/;"	a	language:Vim
